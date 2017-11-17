@@ -1,0 +1,4488 @@
+ai thèm quan tâm~-3.0
+am hiểu~3.0
+an ninh~2.0
+an toàn~1.0
+an ủi~1.0
+anh chàng đẹp trai~3.0
+anh dũng~2.0
+anh hùng~2.0
+anh hùng ca~3.0
+ba hoa~-1.0
+ban cho~2.0
+bao quát~5.0
+bao vây~-1.0
+bi ai~-4.0
+bi kịch~-3.0
+bi quan~-1.0
+bi thảm~-3.0
+biến chứng~-2.0
+biến dạng~-2.0
+biến thành quỷ~-3.0
+biến động~-1.0
+biếng nhác~-2.0
+biết suy nghĩ~2.0
+biết thưởng thức~3.0
+biết trước~1.0
+biết ơn~2.0
+biếu~1.0
+biểu dương~1.0
+biểu thị~1.0
+biện hộ~-1.0
+biệt ngữ~-1.0
+biệt đãi~2.0
+bom tấn~2.0
+buôn lậu~-1.0
+buồn~-2.0
+buồn bã~-2.0
+buồn chán~-3.0
+buồn cười~-2.0
+buồn nôn~-3.0
+buồn phiền~-2.0
+buồn rười rượi~-1.0
+buồn rầu~-1.0
+buồn tẻ~-3.0
+buồn vui lẫn lộn~-1.0
+buộc tội~-2.0
+bài phê bình~-2.0
+bàn cãi~-1.0
+bày mưu~-1.0
+bá chủ~-3.0
+bác bỏ~-1.0
+bán chạy~3.0
+bán chạy nhất~5.0
+bán khỏa thân~-2.0
+báng bổ~-3.0
+báo hại~-2.0
+báo thù~-3.0
+báo tin tức sai~-1.0
+báo động~-3.0
+bâng khuâng~-1.0
+bãi~-2.0
+bãi lầy~-3.0
+bão tố~-1.0
+bé nhỏ~-2.0
+bé xíu~-1.0
+bén~2.0
+béo~-1.0
+béo ngậy~-2.0
+béo phì~-3.0
+bê tha~-2.0
+bênh vực~3.0
+bình dị~4.0
+bình thường~2.0
+bình thản~1.0
+bình tĩnh~2.0
+bình đẳng~2.0
+bí hiểm~-1.0
+bí mật~-1.0
+bí truyền~-2.0
+bó sát~-1.0
+bóc lột~-3.0
+bóng~-1.0
+bóng loáng~2.0
+bóng mượt~3.0
+bóng tối~-1.0
+bóp méo~-1.0
+bôi nhọ~-1.0
+bù xù~-2.0
+băn khoăn~-1.0
+băng~-1.0
+bưng bít~-3.0
+bước đi khó nhọc~-1.0
+bước đột phá~2.0
+bướng bỉnh~-2.0
+bạn bè~1.0
+bạn thân~1.0
+bạn thân thiết~-2.0
+bạn đồng hành~1.0
+bạo chúa~-2.0
+bạo dâm~-3.0
+bạo dạn~-2.0
+bạo lực~-2.0
+bạo động~-2.0
+bản sao~-1.0
+bản sao lại~-2.0
+bản địa~1.0
+bảnh~2.0
+bảnh bao~4.0
+bảo hành~1.0
+bảo lãnh~2.0
+bảo thủ~-1.0
+bảo trợ~2.0
+bảo vệ~1.0
+bảo đảm~1.0
+bấp bênh~-1.0
+bất bình~-1.0
+bất bình đẳng~-2.0
+bất chính~-3.0
+bất công~-2.0
+bất cẩn~-2.0
+bất diệt~2.0
+bất hòa~-1.0
+bất hạnh~-2.0
+bất hợp lý~-2.0
+bất hợp pháp~-2.0
+bất hủ~2.0
+bất khuất~2.0
+bất khả xâm phạm~4.0
+bất kính~-2.0
+bất lương~-1.0
+bất lịch sự~-1.0
+bất lợi~-1.0
+bất lực~-2.0
+bất mãn~-1.0
+bất tiện~-3.0
+bất tuân~-1.0
+bất tài~-3.0
+bất tỉnh nhân sự~-1.0
+bất tử~1.0
+bất đắc dĩ~-1.0
+bất đồng quan điểm~-1.0
+bất đồng ý kiến~-1.0
+bất động~-2.0
+bất ổn~-1.0
+bần cùng~-4.0
+bầy nhầy~-1.0
+bẩm sinh~1.0
+bẩn~-3.0
+bẩn thỉu~-5.0
+bẩy~-2.0
+bẫy~-1.0
+bậc thấp~-2.0
+bậc thầy~2.0
+bận~-1.0
+bận rộn~-2.0
+bập bẹ~-2.0
+bắn mực lên~-2.0
+bắn phá~-1.0
+bắt~1.0
+bắt buộc~-1.0
+bắt cóc~-1.0
+bắt kịp~2.0
+bắt nạt~-1.0
+bắt ép~-2.0
+bằng bê tông~1.0
+bằng bạc~1.0
+bằng giọng mũi~-1.0
+bằng lòng~1.0
+bằng nhựa~-1.0
+bằng phẳng~2.0
+bằng đồ thị~-3.0
+bẳng phẳng~1.0
+bền~3.0
+bền chí~3.0
+bền lâu~2.0
+bền lòng~1.0
+bền vững~2.0
+bệnh~-1.0
+bệnh dịch~-3.0
+bệnh hoạn~-5.0
+bệnh thần kinh~-3.0
+bệnh tật~-2.0
+bỉ ổi~-5.0
+bỉu môi~-2.0
+bị bong gân~-1.0
+bị bóc lột~-4.0
+bị bỏ rơi~-2.0
+bị chuột rút~-1.0
+bị chèn ép~-2.0
+bị cáo buộc~-2.0
+bị gián đoạn~-1.0
+bị hại~-2.0
+bị hỏng~-2.0
+bị kích thích~3.0
+bị ma tuý kích thích~-1.0
+bị mù~-2.0
+bị mắc kẹt~-1.0
+bị mửa~-4.0
+bị ngược đãi~-2.0
+bị nhiễm khuẩn~-4.0
+bị ong đốt~-1.0
+bị rỉ~-3.0
+bị thương~-2.0
+bị thất sủng~-4.0
+bị tiêu rồi~-2.0
+bị trầy da~-1.0
+bị tổn thương~-3.0
+bị xa lánh~-3.0
+bị ảnh hưởng mạnh~-3.0
+bịa đặt~-2.0
+bịp~-1.0
+bọc da~3.0
+bọt~-3.0
+bỏ~-1.0
+bỏ bùa~-3.0
+bỏ cuộc~-1.0
+bỏ dở~-2.0
+bỏ lỡ~-2.0
+bỏ mạng~-1.0
+bỏ mặc~-2.0
+bỏ qua~-1.0
+bỏ qua nó~-2.0
+bỏ ra~-1.0
+bỏ rơi~-2.0
+bỏ sót~-1.0
+bỏ xót~-1.0
+bỏ đi~-1.0
+bố thí~2.0
+bố trí~1.0
+bốc cháy~-1.0
+bốc lửa~1.0
+bốc mùi~-3.0
+bốc mùi hôi~-3.0
+bốc đồng~-3.0
+bối rối~-3.0
+bốp chát~-1.0
+bồn chồn~-1.0
+bồng bột~-4.0
+bổ dưỡng~2.0
+bổ nhiệm~1.0
+bổ sung~1.0
+bổ trợ~1.0
+bổ túc~1.0
+bổ ích~3.0
+bộ ly hợp~-1.0
+bới móc~-1.0
+bụi~-1.0
+bụi phóng xạ~-1.0
+bụi than~-3.0
+bứng rể~-1.0
+bứt rứt~-1.0
+bừa bãi~-2.0
+bừa bộn~-2.0
+bực bội~-2.0
+bực mình~-3.0
+bực tức~-3.0
+ca ngợi~3.0
+ca tụng~2.0
+cam chịu~-1.0
+cam kết~2.0
+can thiệp~-1.0
+can trường~2.0
+can đảm~2.0
+cao cả~1.0
+cao cấp~4.0
+cao ngất~-1.0
+cao quý~2.0
+cao thượng~2.0
+cao tốc~1.0
+cao độ~1.0
+cau có~-1.0
+cau mày~-1.0
+cay đắng~-3.0
+cay độc~-3.0
+che chở~1.0
+che khuất~-1.0
+che mắt~-2.0
+chen lấn~-1.0
+chi phí thấp~1.0
+chi tiết~1.0
+chia rẽ~-2.0
+chia sẻ~1.0
+chia tay~-1.0
+chinh phục~2.0
+chiếm~-2.0
+chiếm hữu~-1.0
+chiếm lĩnh~-5.0
+chiếm đoạt~-3.0
+chiếm ưu thế~1.0
+chiến~2.0
+chiến công~2.0
+chiến lược~2.0
+chiến thắng~3.0
+chiến tranh~-2.0
+chiến tích~1.0
+chiến đấu~-1.0
+chiết trung~1.0
+chiếu lệ~-1.0
+chiếu sáng~1.0
+chiều sâu~2.0
+chiều ý~2.0
+cho không~2.0
+cho phép~1.0
+choáng váng~1.0
+chu đáo~3.0
+chua~-2.0
+chua cay~-4.0
+chua chát~-4.0
+chung chung~-2.0
+chung thuỷ~2.0
+chuyên chế~-3.0
+chuyên dụng~2.0
+chuyên môn hoá~3.0
+chuyên nghiệp~1.0
+chuyên quyền~-2.0
+chuyên sâu~2.0
+chuông cáo phó~-3.0
+chuẩn công nghiệp~1.0
+chuẩn xác~2.0
+chuộc lỗi~1.0
+chà xát~-2.0
+chào~1.0
+chán~-1.0
+chán chường~-3.0
+chán ghét~-3.0
+chán ngán~-2.0
+chán ngấy~-2.0
+chán ngắt~-3.0
+chán nản~-3.0
+chán thật~-3.0
+chát chúa~-3.0
+chát tai~-2.0
+cháy sém~-1.0
+châm biếm~-3.0
+chân chính~1.0
+chân thành~3.0
+chân thật~2.0
+chém đầu~-3.0
+chép của~-1.0
+chê~-3.0
+chê bai~-2.0
+chìm đắm~-2.0
+chí lý~1.0
+chí tử~-3.0
+chín~1.0
+chín chắn~2.0
+chính hãng~2.0
+chính thức~1.0
+chính trực~2.0
+chính xác~2.0
+chính đáng~2.0
+chói chang~-1.0
+chói lọi~4.0
+chói sáng~2.0
+chói tai~-2.0
+chú ý đến từng chi tiết~2.0
+chúc~1.0
+chúc mừng~1.0
+chăm chú~2.0
+chăm chỉ~2.0
+chăm học~2.0
+chăm sóc~2.0
+chơi được~2.0
+chưa chuẩn bị~-2.0
+chưa chín~-2.0
+chưa hoàn thành~-2.0
+chưa hề có~2.0
+chưa phù hợp~-2.0
+chưa sẵn sàng~-1.0
+chưa thử nghiệm~-1.0
+chưa thực hiện~-2.0
+chưa tinh chế~-2.0
+chưa từng có~3.0
+chưa xong~-1.0
+chưng hửng~-1.0
+chướng ngại~-2.0
+chướng tai gai mắt~-2.0
+chưởi rủa~-4.0
+chạy quá~-1.0
+chạy theo vật chất~-1.0
+chạy trơn tru~3.0
+chảnh chẹ~-2.0
+chảy máu~-1.0
+chấn thương~-2.0
+chấp nhận~1.0
+chấp nhận được~1.0
+chấp thuận~1.0
+chất bổ dưỡng~1.0
+chất dễ bay hơi~-2.0
+chất kích thích~-2.0
+chất lượng~2.0
+chất lượng cao~3.0
+chất lượng hàng đầu~5.0
+chất lượng thấp~-3.0
+chất thải~-2.0
+chất vấn~-2.0
+chất độc~-1.0
+chầm chậm~-1.0
+chậm~-1.0
+chậm chạp~-2.0
+chậm luân chuyển~-1.0
+chậm phát triển~-1.0
+chậm trễ~-1.0
+chật~-1.0
+chật hẹp~-2.0
+chắc hẳn~1.0
+chắp vá~-1.0
+chặt~-1.0
+chặt chẽ~2.0
+chặt thịt gà~-3.0
+chế giễu~-1.0
+chế ngự~-1.0
+chế nhạo~-3.0
+chế độ chuyên chế~-1.0
+chếch choáng~-1.0
+chết~-1.0
+chết chìm~-2.0
+chết người~-1.0
+chết ngộp~-2.0
+chết non~-3.0
+chết yểu~-1.0
+chết đói~-3.0
+chỉ trích~-2.0
+chỉnh tề~1.0
+chịu~-1.0
+chịu khó~-3.0
+chịu nhiệt~2.0
+chịu thua~-2.0
+chọc giận~-2.0
+chọc lét~1.0
+chọc thủng~-1.0
+chọc tức~-1.0
+chống bó cứng~2.0
+chống chói~2.0
+chống dính~3.0
+chống khủng bố~-4.0
+chống lại~-1.0
+chống thấm~1.0
+chống trượt~3.0
+chống đối~-2.0
+chổ lộn xộn~-3.0
+chợ đen~-2.0
+chủ~4.0
+chủ nghĩa anh hùng~3.0
+chủ nghĩa bi quan~-1.0
+chủ nghĩa cực đoan~-1.0
+chủ động~2.0
+chức năng~1.0
+chứng chuột rút~-1.0
+chứng chỉ~1.0
+chứng cuồng loạn~-3.0
+chứng hoang tưởng~-1.0
+chứng loạn thần kinh~-2.0
+chứng minh~2.0
+chứng sợ phụ nữ~-2.0
+chứng thực~2.0
+chứng điên cuồng~-3.0
+chửi~-3.0
+chửi rủa~-4.0
+chữa khỏi~2.0
+co cứng~-2.0
+co giãn~1.0
+coi chừng~-2.0
+coi nhẹ~-1.0
+coi thường~-1.0
+coi trọng~1.0
+con cháu~1.0
+con giòi~-3.0
+con đĩa~-3.0
+cung cấp nhiều tin tức~2.0
+cung kính~2.0
+cuối cùng~-3.0
+cuống~-2.0
+cuồng loạn~-3.0
+cuồng nhiệt~5.0
+cuồng tín~-3.0
+cuộc cách mạng~-2.0
+cuộc nổi loạn~-3.0
+cuộc tranh luận~-1.0
+cuộc tranh đấu~-2.0
+cuộc vận động~1.0
+cuộc xung đột~-2.0
+cuộc đánh nhau~-1.0
+cuộc đột kích~2.0
+cuộc đụng độ~-1.0
+cuộn lên trong ngôi mộ~-4.0
+càu nhàu~-1.0
+cá mập~-1.0
+cách chức~-2.0
+cách ly~-1.0
+cách mạng~3.0
+cái gọi là~-1.0
+cái lắc bật ra~-1.0
+cám dỗ~-2.0
+cám ơn~1.0
+cáo trạng~-2.0
+cáu gắt~-4.0
+cáu kỉnh~-1.0
+câm~-3.0
+câm miệng~-2.0
+cân bằng~1.0
+cân xứng~1.0
+cân đối~1.0
+câu nói đùa~1.0
+cãi cặt~-2.0
+cãi nhau~-1.0
+còn nguyên~2.0
+còn sử dụng được~3.0
+có bọt~2.0
+có chất rượu~-1.0
+có chừng mực~1.0
+có duyên~3.0
+có gai~-1.0
+có giá trị~1.0
+có giáo dục~3.0
+có hiệu lực~1.0
+có hiệu quả~2.0
+có hương vị~1.0
+có hại~-2.0
+có hạn~-1.0
+có hệ thống~3.0
+có học~2.0
+có hồn~3.0
+có khuyết điểm~-3.0
+có khả năng~2.0
+có kinh nghiệm~-1.0
+có kết cấu~3.0
+có lý~1.0
+có lợi~2.0
+có mưa~-1.0
+có mưa đồ~-3.0
+có một không hai~3.0
+có mục đích~2.0
+có mỹ thuật~2.0
+có nguy cơ~-1.0
+có nhiều gốc cây~-2.0
+có nhiều đốm~-2.0
+có nhân tính~2.0
+có năng khiếu~2.0
+có năng lực~2.0
+có năng suất cao~1.0
+có nội dung~2.0
+có phong cách~4.0
+có răng hô~-1.0
+có rệp~-3.0
+có sẵn~3.0
+có sức hút~2.0
+có sức mạnh~1.0
+có sức quyến rũ~1.0
+có sừng~-2.0
+có thiện chí~1.0
+có thẩm quyền~2.0
+có thật~1.0
+có thể~2.0
+có thể bàn cãi~-1.0
+có thể công nhận~1.0
+có thể dùng được~1.0
+có thể hiểu được~1.0
+có thể kiểm soát~1.0
+có thể làm tốt hơn~-2.0
+có thể làm tồi tệ hơn~1.0
+có thể nâng cấp~4.0
+có thể nạp lại~4.0
+có thể tha thứ~1.0
+có thể tháo~4.0
+có thể thực hiện~1.0
+có thể tưởng tượng~3.0
+có thể xem được~1.0
+có thể đi qua~1.0
+có thể đạt được~1.0
+có tiếng~3.0
+có triển vọng~2.0
+có trách nhiệm~1.0
+có trình độ~2.0
+có tài~2.0
+có tài năng~1.0
+có tài quản lý~1.0
+có tác dụng~1.0
+có tính axit~-4.0
+có tất cả~4.0
+có tổ chức~4.0
+có tội~-3.0
+có uy tín~5.0
+có váng~-2.0
+có vấn đề~-3.0
+có vẻ khó chịu~-3.0
+có vẻ kịch~-2.0
+có ác ý~-4.0
+có ích~1.0
+có óc sáng tạo~3.0
+có ý nghĩa~3.0
+có ý thức~1.0
+có ý tốt~2.0
+có đạo lý~1.0
+có đạo đức~1.0
+có đặc quyền~1.0
+có đủ tư cách~1.0
+có ảnh hưởng~2.0
+cô lập~-1.0
+cô đơn~-3.0
+cô độc~-1.0
+côn đồ~-1.0
+công~3.0
+công bằng~2.0
+công hiệu~3.0
+công kích~-2.0
+công lao~3.0
+công minh~1.0
+công nghệ~1.0
+công nhận~2.0
+công phu~2.0
+công trạng~3.0
+công đức~3.0
+cùn~-4.0
+cùng cực~-1.0
+căm thù~-5.0
+căn bệnh~-1.0
+căng~-2.0
+căng thẳng~-1.0
+cũ~-1.0
+cũ kỹ~-1.0
+cũ rích~-2.0
+cơ bắp~3.0
+cơ hội~1.0
+cơn~-1.0
+cơn giận dữ~-1.0
+cơn thịnh nộ~-2.0
+cơn tuyệt vọng~-3.0
+cư xử không đứng đắn~-1.0
+cương quyết~2.0
+cướp~-2.0
+cướp bóc~-3.0
+cướp đoạt~-3.0
+cười~2.0
+cười chua chát~-1.0
+cười khinh bỉ~-2.0
+cười lớn~3.0
+cười nhạo~-2.0
+cường tráng~2.0
+cường điệu~-2.0
+cường độ~2.0
+cưỡng bức~-2.0
+cưỡng ép~-2.0
+cưỡng đoạt~-2.0
+cạn kiệt~-1.0
+cạnh tranh~2.0
+cả tin~-2.0
+cải thiện~1.0
+cải tiến~1.0
+cải tạo~2.0
+cải tổ~-1.0
+cảm giác~2.0
+cảm giác lo lắng~-1.0
+cảm hứng~3.0
+cảm phục~4.0
+cảm thông~1.0
+cảm thấy tốt~3.0
+cảm xúc~3.0
+cảm động~2.0
+cảm ơn~2.0
+cản trở~-2.0
+cảnh báo~-1.0
+cảnh bần cùng~-4.0
+cảnh ghèo khổ~-4.0
+cảnh hoang tàn~-3.0
+cảnh khốn cùng~-2.0
+cảnh ngộ~-2.0
+cấm~-1.0
+cấp cao~1.0
+cấp thấp~-1.0
+cấp tiến~2.0
+cấp vốn~1.0
+cấu hình cao~1.0
+cấu hình được~2.0
+cầm cố~-1.0
+cần cù~3.0
+cần kiệm~1.0
+cần thiết~2.0
+cầu kỳ~-2.0
+cầu toàn~1.0
+cẩn thận~2.0
+cẩn trọng~1.0
+cẩu thả~-2.0
+cập nhật~1.0
+cắm là chạy~3.0
+cắn~-2.0
+cắt~-1.0
+cắt bớt~-2.0
+cắt cổ~-3.0
+cắt gân~-2.0
+cắt vụn~-2.0
+cắt đi~-2.0
+cắt đứt~-2.0
+cằn cỗi~-2.0
+cằn nhằn~-1.0
+cọt kẹt~-2.0
+cố~1.0
+cố chấp~-2.0
+cố gắng~2.0
+cố lên~2.0
+cố ý~-1.0
+cống hiến~3.0
+cống vật~2.0
+cồng kềnh~-2.0
+cổ lỗ sĩ~-2.0
+cổ vũ~2.0
+cổ xưa~1.0
+cổ điển~4.0
+cộc cằn~-2.0
+cộc lốc~-1.0
+cộng hưởng với~1.0
+cộng tác~2.0
+cộng đồng~1.0
+cớ~-1.0
+cởi mở~1.0
+cỡ lớn~4.0
+cục cằn~-3.0
+cục cứt~-3.0
+củng cố lại~2.0
+cứng~-1.0
+cứng cáp~2.0
+cứng nhắc~-1.0
+cứng rắn~-1.0
+cứng đầu~-2.0
+cứng đờ~-1.0
+cứt~-3.0
+cứu trợ~2.0
+cừ~3.0
+cừ khôi~4.0
+cử chỉ vụng về~-1.0
+cự tuyệt~-2.0
+cực khoái~5.0
+cực khổ~-3.0
+cực kỳ lớn~5.0
+cực điểm~4.0
+cực đoan~-1.0
+danh dự~3.0
+danh giá~3.0
+danh hiệu~2.0
+danh nhân~2.0
+danh tiếng~3.0
+di động~3.0
+diêm dúa~-1.0
+do dự~-1.0
+du dương~2.0
+duy nhất~1.0
+duy tâm~-1.0
+duyên dáng~4.0
+dài~-1.0
+dài dòng~-1.0
+dàn xếp~1.0
+dày dạn~2.0
+dày đặc~-3.0
+dày đặt~-3.0
+dâm dục~-2.0
+dâm ô~-3.0
+dâm đãng~-3.0
+dâng hương~3.0
+dã man~-1.0
+dã tâm~-3.0
+dìm~-1.0
+dí dỏm~3.0
+dòng nước lũ~-1.0
+dông dài~-1.0
+dùng một lần~-1.0
+dùng vũ lực~-2.0
+dũng cảm~2.0
+dũng mãnh~1.0
+dơ bẩn~-3.0
+dơ dáy~-2.0
+dư~-2.0
+dư dả~3.0
+dư thừa~-1.0
+dưới~-3.0
+dại~-1.0
+dại dột~-2.0
+dại khờ~-2.0
+dần dần~1.0
+dẫn đầu~3.0
+dập tắt~-1.0
+dẻo dai~1.0
+dễ~3.0
+dễ bán~1.0
+dễ bị tổn thương~-2.0
+dễ cáu~-1.0
+dễ cầm~3.0
+dễ dàng~1.0
+dễ ghét~-3.0
+dễ hiểu~1.0
+dễ nghe~2.0
+dễ nhìn~2.0
+dễ nhận biết~1.0
+dễ nuôi~4.0
+dễ nấu~4.0
+dễ rỉ sét~-3.0
+dễ sử dụng~3.0
+dễ thương~3.0
+dễ thấy~1.0
+dễ tiếp thu~1.0
+dễ tính~2.0
+dễ vỡ~-1.0
+dễ xúc động~-1.0
+dễ ăn~4.0
+dễ điều chỉnh~4.0
+dễ đọc~3.0
+dị giáo~-2.0
+dị thường~-1.0
+dịu dàng~2.0
+dọa nạt~-3.0
+dọn dẹp ngăn nắp~1.0
+dốc~-1.0
+dốc hết sức~3.0
+dốc toàn lực~3.0
+dối~-1.0
+dối trá~-1.0
+dốt~-3.0
+dốt nát~-3.0
+dồi dào~3.0
+dỗ dành~1.0
+dội lại~-2.0
+dở~-4.0
+dở hơi~-4.0
+dở ẹc~-4.0
+dụ~2.0
+dứt khoát~1.0
+dữ tợn~-3.0
+dự đoán được~2.0
+dựa vào~1.0
+gan dạ~3.0
+gan góc~3.0
+gang tấc~-1.0
+ganh tị~-2.0
+gay gắt~-2.0
+ghen ghét~-3.0
+ghét~-4.0
+ghét bỏ~-4.0
+ghét cay ghét đắng~-4.0
+ghê gớm~-5.0
+ghê sợ~-1.0
+ghê tởm~-5.0
+gia trưởng~-2.0
+giam cầm~-1.0
+gian dâm~-2.0
+gian dối~-1.0
+gian khổ~-3.0
+gian lận~-1.0
+gian trá~-2.0
+gian xảo~-1.0
+giao cấu~-4.0
+giao hưởng~3.0
+giao phó~1.0
+giao tiếp~1.0
+giao tiếp tốt~1.0
+già~-1.0
+già yếu~-3.0
+giàu~3.0
+giàu có~3.0
+giàu nghị lực~2.0
+giàu năng lượng~2.0
+giàu tình cảm~1.0
+giàu tưởng tượng~3.0
+giày vò~-4.0
+giá cả~-1.0
+giá cả phải chăng~3.0
+giá rẻ~1.0
+giá trị~3.0
+giác ngộ~1.0
+giám sát~-1.0
+gián đoạn~-2.0
+giáng chức~-2.0
+giáo dục~3.0
+giáo lý~-2.0
+gièm pha~-2.0
+giòn~-3.0
+giúp~1.0
+giúp đỡ~1.0
+giả~-1.0
+giả bộ~1.0
+giả dối~-3.0
+giả mạo~-2.0
+giả nhân giả nghĩa~-3.0
+giả tạo~-1.0
+giả vờ~-2.0
+giải lao~2.0
+giải phóng~2.0
+giải thoát~1.0
+giải thích sai~-1.0
+giải thưởng~2.0
+giải trí~2.0
+giải trí truyền hình~3.0
+giải tán~-1.0
+giảm~-2.0
+giảm bớt~1.0
+giảm chi phí~-2.0
+giảm chất lượng~-2.0
+giảm giá~1.0
+giảm giá trị~-1.0
+giảm mạnh~-1.0
+giản dị~1.0
+giảng dạy~3.0
+giấc mơ~1.0
+giấu~-2.0
+giẫm nát~-2.0
+giận dữ~-3.0
+giật gân~5.0
+giết~-4.0
+giết người~-2.0
+giỏi~3.0
+giỏi giang~2.0
+giống~1.0
+giống nhiệp dư~-2.0
+giống thật~3.0
+giới hạn~-2.0
+giới khác~3.0
+giới thiệu~2.0
+giữ~1.0
+giữ sự chú ý~2.0
+gàn dở~-4.0
+gái điếm~-2.0
+gánh chịu~-2.0
+gánh nặng~-3.0
+gây~-2.0
+gây bối rối~-2.0
+gây chết người~-4.0
+gây hại~-2.0
+gây hỗn loạn~-3.0
+gây khó chịu~-2.0
+gây nghiện~-2.0
+gây nguy hiểm~-1.0
+gây ngủ~-1.0
+gây nhiễu~-1.0
+gây nhầm lẫn~-2.0
+gây phiền~-3.0
+gây phẫn nộ~-4.0
+gây rối~-2.0
+gây thiệt hại~-2.0
+gây tiếng vang lớn~3.0
+gây tranh cãi~-1.0
+gây trở ngại~-2.0
+gây tắc nghẽn~-2.0
+gây tổn thương~-3.0
+gây tử vong~-5.0
+gây xúc động~2.0
+gây ấn tượng~3.0
+gây ấn tượng sai lầm~-3.0
+gây ồn ào~-1.0
+gò má~-2.0
+góp phần~2.0
+gương mẫu~4.0
+gượng~-1.0
+gượng gạo~-3.0
+gạch ngang~-2.0
+gạt người~-1.0
+gạt sang một bên~-2.0
+gần gũi~1.0
+gần hoàn hảo~4.0
+gầy~-1.0
+gập gềnh~-1.0
+gắn bó chặt~-1.0
+gắn kết~1.0
+gắt gỏng~-2.0
+gặp rắc rối~-1.0
+gặt hái~2.0
+gọn~1.0
+gọn gàng~3.0
+gọn nhẹ~3.0
+gồ ghề~-3.0
+gớm~-3.0
+gớm ghiếc~-5.0
+gợi cảm~4.0
+gợi lên~2.0
+gợi nhớ~1.0
+gợi thích thú~3.0
+hai mang~-2.0
+hai mặt~-3.0
+ham muốn~-2.0
+ham thích~3.0
+hang~1.0
+hao hụt~-1.0
+hao mòn~-3.0
+hay~3.0
+hay cáu~-1.0
+hay giận~-1.0
+hay giận dỗi~-2.0
+hay gây gỗ~-2.0
+hay ho~2.0
+hay nghi ngờ~-2.0
+hay quạu~-2.0
+hay thay đổi~-1.0
+hay thù hằn~-3.0
+hay vui đùa~2.0
+hay đau~-3.0
+hay đùa~2.0
+hiu quạnh~-2.0
+hiếm~1.0
+hiếm có~5.0
+hiếm khi~-1.0
+hiến dâng~2.0
+hiếp dâm~-5.0
+hiếu chiến~-3.0
+hiếu học~2.0
+hiếu khách~3.0
+hiền hậu~2.0
+hiền lành~2.0
+hiền nhân~2.0
+hiểm nghèo~-3.0
+hiểm ác~-3.0
+hiểm độc~-4.0
+hiển nhiên~1.0
+hiểu biết~1.0
+hiểu lầm~-1.0
+hiểu sai~-1.0
+hiện ra lờ mờ~-3.0
+hiện thực~1.0
+hiện đại~1.0
+hiệp sĩ~2.0
+hiệp định~1.0
+hiệu chỉnh~1.0
+hiệu lực~3.0
+hiệu nghiệm~1.0
+hiệu quả~2.0
+hiệu suất cao~3.0
+hoa mỹ~3.0
+hoan hỉ~4.0
+hoan lạc~1.0
+hoan nghênh~2.0
+hoang dại~-1.0
+hoang mang~-2.0
+hoang phí~-1.0
+hoang sơ~1.0
+hoang tưởng~-2.0
+hoang vắng~-3.0
+hoang đường~-2.0
+hoà bình~4.0
+hoà giải~1.0
+hoà hợp~1.0
+hoà nhã~2.0
+hoà thuận~1.0
+hoài nghi~-3.0
+hoàn chỉnh~3.0
+hoàn mỹ~5.0
+hoàn toàn đúng~2.0
+hoàng kim~1.0
+hoãn lại sau~-1.0
+hoạt bát~4.0
+hoạt động~1.0
+hoảng hốt~-3.0
+hoảng loạn~-2.0
+hoảng sợ~-1.0
+hung bạo~-4.0
+hung dữ~-5.0
+hung hăng~-1.0
+hung tợn~-3.0
+hung ác~-1.0
+huy chương~3.0
+huy hoàng~5.0
+huyên náo~-2.0
+huyền bí~1.0
+huyền diệu~2.0
+huyền thoại~3.0
+huỷ~-1.0
+huỷ diệt~-3.0
+huỷ hoại~-4.0
+hy sinh~-1.0
+hy vọng~1.0
+hà khắc~-3.0
+hà tiện~-2.0
+hài~1.0
+hài hoà~2.0
+hài hước~2.0
+hài kịch~1.0
+hài lòng~2.0
+hàng đầu~3.0
+hành hung~-3.0
+hành hạ~-1.0
+hành xác~-4.0
+hành động hài hước~1.0
+hành động phá hoại~-2.0
+hành động vô nhân đạo~-3.0
+hào hiệp~3.0
+hào hoa~3.0
+hào hứng~3.0
+hào nhoáng~-1.0
+hào phóng~2.0
+háo hức~2.0
+hâm mộ~3.0
+hân hoan~3.0
+hãm hiếp~-4.0
+hãnh diện~2.0
+hão huyền~-1.0
+hét lên~-2.0
+hên~3.0
+hênh hoang~-1.0
+hình dung~1.0
+hình dung từ~-2.0
+hình nộp~-1.0
+hình phạt~-1.0
+hình phạt khổ sai~-2.0
+hình thành lên~1.0
+hình thức~-1.0
+hòa bình~1.0
+hòa giải~2.0
+hòa điệu~2.0
+hóm hỉnh~3.0
+hôi~-3.0
+hôi hám~-5.0
+hôn mê~-1.0
+hùng biện~3.0
+hùng hồn~2.0
+hùng mạnh~3.0
+hùng vĩ~5.0
+hút~-3.0
+hút máu~-1.0
+hút vào~3.0
+hăm dọa~-2.0
+hăm hở~2.0
+hăng hái~2.0
+hơi dài~-2.0
+hơn hẳn~4.0
+hư~-3.0
+hư cấu~-2.0
+hư hỏng~-3.0
+hư không~-1.0
+hư nát~-2.0
+hư vô~-1.0
+hướng dẫn~1.0
+hướng nội~1.0
+hạ giá~-2.0
+hạ lưu~-1.0
+hạ mình~-2.0
+hạ thấp~-1.0
+hạ thấp phẩm giá~-3.0
+hạ xuống~-2.0
+hạ đẳng~-4.0
+hại não~-1.0
+hạn chế~-1.0
+hạng hai~-2.0
+hạng nhất~4.0
+hạnh phúc~2.0
+hảo hạng~5.0
+hấp dẫn~4.0
+hấp tấp~-1.0
+hất cẳng~-1.0
+hậu hỉnh~2.0
+hậu quả~-2.0
+hằn học~-3.0
+hẹp~-1.0
+hẻo lánh~-3.0
+hết hơi~-2.0
+hết mơ mộng~-2.0
+hết sức đặc biệt~5.0
+hết thắc mắc~3.0
+hết thời~-1.0
+họa sĩ~1.0
+học bổng~2.0
+học tập~1.0
+hỏng~-2.0
+hố sâu~-1.0
+hối hận~-3.0
+hối lộ~-3.0
+hối tiếc~-3.0
+hồ hởi~4.0
+hồi hộp~-2.0
+hồi quy~-2.0
+hồi sinh~2.0
+hồn nhiên~2.0
+hồng hào~2.0
+hỗ trợ~1.0
+hỗn loạn~-2.0
+hỗn láo~-2.0
+hỗn tạp~-2.0
+hỗn độn~-2.0
+hớn hở~2.0
+hờ hững~-2.0
+hời hợt~-1.0
+hợp~1.0
+hợp lý~1.0
+hợp lý hóa~1.0
+hợp lệ~1.0
+hợp nhất lại~2.0
+hợp pháp~1.0
+hợp thời~1.0
+hợp thời trang~2.0
+hợp tác~2.0
+hợp tình hợp lý~1.0
+hợp với~1.0
+hụt~-1.0
+hụt hơi~-1.0
+hủy bỏ~-1.0
+hứa hẹn~2.0
+hứng~3.0
+hứng thú~3.0
+hững hờ~-2.0
+hữu hình~1.0
+hữu ích~2.0
+inh tai~-4.0
+inh ỏi~-2.0
+keo kiệt~-1.0
+kha khá~1.0
+khai phá~1.0
+khai sáng~1.0
+khan hiếm~-1.0
+khao khát~-1.0
+khen~2.0
+khen ngợi~2.0
+khen thưởng~2.0
+khinh bỉ~-3.0
+khinh khi~-5.0
+khinh miệt~-3.0
+khinh người~-3.0
+khinh suất~-1.0
+khinh thường~-2.0
+khiêm nhường~2.0
+khiêm tốn~1.0
+khiêu dâm~-2.0
+khiêu khích~-2.0
+khiếm nhã~-1.0
+khiếp~-5.0
+khiếp sợ~-3.0
+khiếu nại~-3.0
+khiếu thẩm mỹ~2.0
+khiển trách~-2.0
+khoa học~1.0
+khoa trương~-2.0
+khoan~-3.0
+khoan dung~1.0
+khoan hồng~1.0
+khoan khoái~4.0
+khoe khoan~-2.0
+khoe khoang~-1.0
+khoác lác~-2.0
+khoản nợ~-3.0
+khoảng trống~-1.0
+khoẻ~2.0
+khoẻ mạnh~3.0
+khu người da đen~-2.0
+khuya~-1.0
+khuynh hướng tiên tiến~1.0
+khuyến khích~1.0
+khuyết tật~-1.0
+khuyết điểm~-1.0
+khuất phục~-3.0
+khuấy động~-1.0
+khàn khàn~-1.0
+khá lớn~1.0
+khá nhàm chán~-2.0
+khác biệt~3.0
+khách du lịch~-2.0
+khái quát~1.0
+khám phá~4.0
+khát khao~2.0
+khát nước~-1.0
+khâm phục~3.0
+khéo chọn~2.0
+khéo léo~4.0
+khéo tay~2.0
+khét tiếng~-4.0
+khí sắc~3.0
+khí thế~2.0
+khí động học~1.0
+khó chịu~-1.0
+khó coi~-3.0
+khó cầm~-1.0
+khó giải~-2.0
+khó giải quyết~-3.0
+khó giải thích~-2.0
+khó hiểu~-1.0
+khó lường~-1.0
+khó nghe~-2.0
+khó nhọc~-1.0
+khó phân loại~-1.0
+khó quên~4.0
+khó thương~-3.0
+khó tiêu~-1.0
+khó tính~-1.0
+khó đạt tới~-2.0
+khó đọc~-2.0
+khó ưa~-3.0
+khó ưu~-3.0
+khóc~-1.0
+khóc nức nở~-1.0
+khô khan~-2.0
+khôi hài~1.0
+khôi phục~3.0
+khôn~3.0
+khôn khéo~1.0
+khôn ngoan~3.0
+không ai địch nổi~5.0
+không ai ưa~-2.0
+không an toàn~-2.0
+không biên giới~3.0
+không biết~-1.0
+không biết mệt mỏi~2.0
+không biết xấu hổ~-3.0
+không bắt buộc~1.0
+không bằng lòng~-2.0
+không bằng phẳng~-1.0
+không bền~-4.0
+không bền vững~-3.0
+không bị cản trở~1.0
+không bị trói buộc~1.0
+không bị trượt~3.0
+không bị tổn thương~1.0
+không chung thủy~-2.0
+không chuyên nghiệp~-2.0
+không chào đón~-2.0
+không chê vào đâu được~5.0
+không chính~-2.0
+không chính thống~-1.0
+không chính xác~-2.0
+không chú ý~-1.0
+không chấp nhận được~-4.0
+không chắc~-1.0
+không chắc chắn~-1.0
+không chịu nổi~-4.0
+không chữa được~-3.0
+không câm miệng~-3.0
+không cân~-2.0
+không có chức năng~-3.0
+không có cách nào~-4.0
+không có cạo~-2.0
+không có gì đặc sắc~-2.0
+không có hiệu quả~-2.0
+không có học thức~-2.0
+không có khả năng~-2.0
+không có linh hồn~-2.0
+không có lợi~-1.0
+không có máu~-3.0
+không có mùi vị~-2.0
+không có nghị lực~-2.0
+không có ngoại lệ~-1.0
+không có sẵn~-2.0
+không có thật~-2.0
+không có đầu mối~-2.0
+không có động lực~-1.0
+không công bình~-2.0
+không công bằng~-2.0
+không công hiệu~-1.0
+không công hệu~-2.0
+không cảm xúc~-1.0
+không cảm động~-2.0
+không cần~-1.0
+không cần thiết~-1.0
+không cần đến~-2.0
+không cẩn thận~-1.0
+không cứu được~-1.0
+không giao tiếp~-2.0
+không giàu óc tưởng tượng~-2.0
+không giá trị~-3.0
+không giám sát~-2.0
+không giới hạn~2.0
+không gỉ~3.0
+không hay~-2.0
+không hiệu chuẩn~-2.0
+không hiệu quả~-2.0
+không hoàn chỉnh~-1.0
+không hoàn hảo~-1.0
+không hoàn toàn~-2.0
+không hoạt động~-4.0
+không hài lòng~-2.0
+không hút thuốc~1.0
+không hư hại~1.0
+không hạn chế~2.0
+không hạnh phúc~-3.0
+không hấp dẫn~-3.0
+không hẳn là tầm thường~-2.0
+không hề khoan nhượng~-3.0
+không hợp~-4.0
+không hợp lý~-2.0
+không hợp pháp~-1.0
+không hợp thời~-2.0
+không hợp thời trang~-1.0
+không khoan dung~-3.0
+không khoan nhượng~1.0
+không khoá~3.0
+không khôi hài~-2.0
+không không~-2.0
+không khỏe mạnh~-3.0
+không kiểm soát được~-2.0
+không kể xiết~-2.0
+không kịp thở~1.0
+không linh hoạt~-2.0
+không liên quan~-1.0
+không liên tục~-1.0
+không lo âu~-2.0
+không làm mất lòng~1.0
+không lôi cuốn~-1.0
+không lưu ý~-2.0
+không lương thiện~-2.0
+không mang giầy~-2.0
+không may~-2.0
+không muốn~-2.0
+không mạch lạc~-3.0
+không mấy ấn tượng~-2.0
+không mến khách~-2.0
+không mời mà đến~-1.0
+không nghe~-1.0
+không nghiêm~-2.0
+không nghỉ~-1.0
+không nguôi~-2.0
+không ngớt~-2.0
+không ngủ~-3.0
+không ngừng~-2.0
+không ngừng phát triển~2.0
+không nhất quán~-1.0
+không nhọn~-1.0
+không nơi nương tựa~-3.0
+không phân minh~-1.0
+không phù hợp~-1.0
+không phù hợp cho trẻ em~-1.0
+không phải trả tiền~3.0
+không phụ thuộc~1.0
+không quan tâm~-1.0
+không quen~-2.0
+không quá tinh tế~-2.0
+không rõ~-1.0
+không rõ nguyên nhân~-1.0
+không rõ ràng~-2.0
+không rườm rà~1.0
+không suy nghĩ~-2.0
+không sáng tạo~-2.0
+không sơn~-1.0
+không sẵn sàng~-2.0
+không sợ~1.0
+không tao nhã~-1.0
+không thay đổi~-2.0
+không theo quy định~-1.0
+không theo quy ước~1.0
+không thiên vị~1.0
+không thoải mái~-2.0
+không thuyết phục~-2.0
+không thuận lợi~-2.0
+không thuộc về tôn giáo~-3.0
+không thành công~-1.0
+không thành thật~-1.0
+không thân thiện~-2.0
+không thích~-2.0
+không thích hợp~-1.0
+không thích đáng~-3.0
+không thông minh~-2.0
+không thương tiếc~-3.0
+không thương xót~-4.0
+không thường xuyên~-1.0
+không thạo~-1.0
+không thận trọng~-2.0
+không thể~-1.0
+không thể biện minh~-3.0
+không thể bảo vệ~-2.0
+không thể bỏ qua~-3.0
+không thể chê trách~3.0
+không thể chấp nhận~-4.0
+không thể chịu nổi~-3.0
+không thể chối cãi~2.0
+không thể công kích~3.0
+không thể cưỡng lại~3.0
+không thể cứu vãn~-4.0
+không thể diễn tả được~-1.0
+không thể dùng được~-4.0
+không thể giải quyết~-1.0
+không thể giải thích~-1.0
+không thể hiểu được~-2.0
+không thể hòa giải~-2.0
+không thể hủy diệt~2.0
+không thể khuyên giải~-3.0
+không thể lay chuyển~-2.0
+không thể loại bỏ~-2.0
+không thể lường trước~1.0
+không thể nguôi~-1.0
+không thể tha thứ~-5.0
+không thể thi hành~-4.0
+không thể trách~1.0
+không thể tránh được~-1.0
+không thể trốn~-2.0
+không thể vượt qua~-3.0
+không thể xuyên thủng~1.0
+không thể đặt xuống~4.0
+không thống nhất~-2.0
+không thừa nhận~-3.0
+không thực tế~-1.0
+không tin~-1.0
+không trong sạch~-2.0
+không trung thành~-2.0
+không trung thực~-3.0
+không tránh được~-1.0
+không tán thành~-2.0
+không tên~-2.0
+không tì vết~4.0
+không tương hợp~-2.0
+không tương thích~-2.0
+không tương xứng~-1.0
+không tốn kém~3.0
+không tồi~2.0
+không tồn tại~-2.0
+không tự nhiên~-1.0
+không vui~-3.0
+không vâng lời~-1.0
+không văn minh~-2.0
+không vị~-3.0
+không vội vả~-2.0
+không vừa~-2.0
+không vừa lòng~-2.0
+không vững~-1.0
+không xác định~-1.0
+không xấu hổ~-3.0
+không yên tâm~-1.0
+không êm~-2.0
+không ăn năn~-1.0
+không đau đớn~1.0
+không điều chỉnh được~-2.0
+không điểm~-3.0
+không đoan trang~-2.0
+không đàng hoàng~-1.0
+không đáng~-2.0
+không đáng tha thứ~-4.0
+không đáng tin~-1.0
+không đáng tin cậy~-2.0
+không đáy~-4.0
+không đúng cách~-2.0
+không đúng lúc~-1.0
+không đúng sự thật~-2.0
+không được bảo đảm~-3.0
+không được hỗ trợ~-2.0
+không được khỏe mạnh~-2.0
+không được mời~-1.0
+không được ưa chuộng~-2.0
+không đạt yêu cầu~-2.0
+không đầy đủ~-2.0
+không đắt~3.0
+không đặc biệt~-2.0
+không đặt biệt~-1.0
+không đều~-1.0
+không để ý~-1.0
+không đối thủ~5.0
+không đồng ý~-2.0
+không độc quyền~3.0
+không đủ~-1.0
+không đủ năng lực~-3.0
+không đủ trình độ~-1.0
+không đứng đắn~-3.0
+không ưa~-2.0
+không ấn tượng~-2.0
+không ổn định~-2.0
+khúc quanh co~-1.0
+khúm núm~-3.0
+khăt khe~-2.0
+khước từ~-2.0
+khả nghi~-2.0
+khả năng~1.0
+khả năng dự báo~1.0
+khả năng thích ứng~1.0
+khả năng tồn tại~1.0
+khả quan~2.0
+khả thi~2.0
+khẩn cấp~-1.0
+khẩn cầu~-1.0
+khập khiễng~-2.0
+khắc khe~-1.0
+khắc khổ~-1.0
+khắc nghiệt~-1.0
+khắc phục~3.0
+khẳng định~2.0
+khốc liệt~-2.0
+khốn khổ~-4.0
+khổ~-2.0
+khổ cực~-3.0
+khổ sở~-3.0
+khờ dại~-3.0
+khởi động ra~-2.0
+khủng bố~-4.0
+khủng hoảng~-3.0
+kinh hoàng~-5.0
+kinh hãi~-5.0
+kinh khủng~-5.0
+kinh ngạc~4.0
+kinh niên~-3.0
+kinh phí thấp~-1.0
+kinh sợ~-4.0
+kinh tế~3.0
+kinh tởm~-5.0
+kinh điển~3.0
+kiên cố~2.0
+kiên gan~-2.0
+kiên nhẫn~1.0
+kiên quyết~1.0
+kiên trì~2.0
+kiên định~1.0
+kiêu căng~2.0
+kiêu kỳ~-1.0
+kiêu ngạo~-3.0
+kiếm được~1.0
+kiềm chế~-1.0
+kiệt quệ~-2.0
+kiệt sức~-1.0
+kiệt tác~5.0
+kiệt xuất~4.0
+kém~-2.0
+kém chất lượng~-3.0
+kém cỏi~-3.0
+kém thông minh~-2.0
+kéo~-2.0
+kéo dài~-1.0
+kéo lê chân~-1.0
+kéo ra~2.0
+kêu ca~-2.0
+kêu la~-2.0
+kêu ngạo~-3.0
+kêu rên~-1.0
+kêu vo vo~1.0
+kìm hãm~-1.0
+kích hoạt lại~1.0
+kích thích~1.0
+kích động~-2.0
+kín đáo~-2.0
+kính mắt~-3.0
+kính mến~2.0
+ký sinh trùng~-3.0
+kẻ cướp~-1.0
+kẻ gian lận~-2.0
+kẻ giết người~-3.0
+kẻ hành hung~-1.0
+kẻ lang thang~-1.0
+kẻ lừa đảo~-2.0
+kẻ quá khích~-3.0
+kẻ thù~-1.0
+kẻ trộm~-2.0
+kếch xù~1.0
+kết hợp~1.0
+kết án~-2.0
+kịch tính~3.0
+kỳ công~3.0
+kỳ diệu~5.0
+kỳ dị~-2.0
+kỳ lạ~-1.0
+kỳ quan~4.0
+kỳ quái~-5.0
+kỳ vọng~2.0
+kỷ lục~3.0
+kỷ niệm~2.0
+kỹ lưỡng~2.0
+kỹ năng~2.0
+kỹ thuật số~1.0
+la mắng~-2.0
+lag~-1.0
+lang thang~-1.0
+lanh lẹ~1.0
+lanh lợi~4.0
+linh hoạt~2.0
+linh tinh~-3.0
+liêm khiết~1.0
+liên miên~-1.0
+liền mạch~3.0
+liều~-2.0
+liều lĩnh~-2.0
+liệt dương~-3.0
+lo~-1.0
+lo lắng~-1.0
+lo ngại~-1.0
+lo âu~-1.0
+logic~1.0
+long lanh~1.0
+long trọng~1.0
+loài ốc sên~-1.0
+loá mắt~3.0
+loãng~-3.0
+loé sáng~1.0
+loại bỏ~-2.0
+loại trừ~-1.0
+loạn thần kinh~-3.0
+loạng choạng~-3.0
+lu bu~-1.0
+lu mờ~-2.0
+lui ra ngoài~-1.0
+lung lay~-3.0
+luân lý~2.0
+luôn luôn~2.0
+luôn trung thành~2.0
+luống cuống~-2.0
+luồn cúi~-3.0
+luỹ tiến~2.0
+ly hôn~-1.0
+là rầy~-1.0
+làm biến dạng~-1.0
+làm buồn nôn~-2.0
+làm bù xù~-2.0
+làm bại hoại~-2.0
+làm bẩn~-2.0
+làm bẽ mặt~-3.0
+làm bỏng~-1.0
+làm bối rối~-3.0
+làm bộ~-1.0
+làm bộ làm tịch~-4.0
+làm cho hoà hợp~1.0
+làm cho ngọt~2.0
+làm cho vui~2.0
+làm chán nản~-2.0
+làm chậm~-2.0
+làm chủ~2.0
+làm cong~-1.0
+làm căng~-2.0
+làm cản trở~-2.0
+làm cằn cỗi~-1.0
+làm cực nhọc~-2.0
+làm dáng~2.0
+làm dịu~1.0
+làm giàu~2.0
+làm gián đoạn~-1.0
+làm giảm~-2.0
+làm hoảng hốt~-2.0
+làm hài lòng~2.0
+làm hư~-2.0
+làm hại~-2.0
+làm hỏng~-3.0
+làm khiếp sợ~-4.0
+làm khó chịu~-2.0
+làm khô héo~-3.0
+làm khổ~-4.0
+làm kinh ngạc~3.0
+làm liên lụy~-1.0
+làm loá mắt~3.0
+làm loạn~-2.0
+làm lu mờ~-1.0
+làm lung lay~-2.0
+làm méo mó~-1.0
+làm mạnh thêm~1.0
+làm mất hiệu lực~-2.0
+làm mất hết~-2.0
+làm mất thể diện~-2.0
+làm mất tinh thần~-3.0
+làm mất trí~-1.0
+làm mềm~1.0
+làm mệt đừ~-2.0
+làm mới~2.0
+làm mờ~-2.0
+làm mờ đi~-1.0
+làm nguy hiểm~-3.0
+làm ngạc nhiên~3.0
+làm ngộp thở~-2.0
+làm ngớ ngẩn~-1.0
+làm nhu nhược~-3.0
+làm nhơ bẩn~-3.0
+làm nhục~-3.0
+làm náo nhiệt~1.0
+làm náo động~-2.0
+làm nôn mửa~-4.0
+làm nản chí~-2.0
+làm nản lòng~-1.0
+làm nặng thêm~-3.0
+làm phiền~-2.0
+làm phách~-2.0
+làm phát điên~-2.0
+làm phấn khởi lên~1.0
+làm phật lòng~-1.0
+làm phật ý~-2.0
+làm phẳng~1.0
+làm phức tạp~-1.0
+làm quen~1.0
+làm quá~1.0
+làm rõ~1.0
+làm rắc rối~-2.0
+làm rối loạn~-1.0
+làm sai~-1.0
+làm say mê~3.0
+làm say đắm~3.0
+làm suy giảm~-3.0
+làm suy nhược~-2.0
+làm suy yếu~-2.0
+làm sáng tỏ~1.0
+làm sạch~2.0
+làm sống lại~3.0
+làm sửng sốt~-2.0
+làm thoả mãn~3.0
+làm thân trâu ngựa~-2.0
+làm thất bại~2.0
+làm thất kinh~-3.0
+làm tiêu tan~-2.0
+làm trái ý~-2.0
+làm trầy~-1.0
+làm trầy da~-3.0
+làm trở ngại~-1.0
+làm tê liệt~-2.0
+làm tình~-4.0
+làm tắc nghẽn~-1.0
+làm tốt~4.0
+làm tốt hơn~2.0
+làm tổn hại~-2.0
+làm tổn thương~-1.0
+làm tức giận~-3.0
+làm tức điên~-4.0
+làm việc mệt nhọc~-2.0
+làm việc quá sức~-2.0
+làm vui lòng~2.0
+làm xong~1.0
+làm ô danh~-2.0
+làm ô nhiễm~-2.0
+làm ô uế~-3.0
+làm đau thêm~-3.0
+làm đau đớn~-2.0
+làm đình trệ~-2.0
+làm đậm đà~1.0
+làm đẹp~3.0
+làm ẩu~-2.0
+lành~1.0
+lành bệnh~2.0
+lành mạnh~1.0
+lành nghề~2.0
+lành tính~1.0
+làu bàu~-1.0
+lác đác~-1.0
+láng~3.0
+láo xược~-2.0
+láu~-1.0
+láu cá~-1.0
+láu lỉnh~-1.0
+lâm ly~-4.0
+lâm sàng~-1.0
+lâu bền~3.0
+lâu dài~3.0
+lâu đời~1.0
+lây nhiễm~-2.0
+lãi~1.0
+lãng mạn~2.0
+lãng mạn hoá~-1.0
+lãng phí~-2.0
+lãng quên~-3.0
+lãnh đạm~-2.0
+lão hoá~-3.0
+lão luyện~2.0
+lén~-1.0
+lén lút~-1.0
+lê bước~-1.0
+lên cân~-2.0
+lên án~-3.0
+lên đến cực điểm~4.0
+lêu lỏng~-1.0
+lòe loẹt~-3.0
+lòng biết ơn~2.0
+lòng can đảm~2.0
+lòng ghen tị~-1.0
+lòng ghét giận~-2.0
+lòng khoan dung~2.0
+lòng nhân từ~1.0
+lòng rộng rãi~3.0
+lòng thương hại~-1.0
+lòng tin~1.0
+lòng tin chắc~1.0
+lòng trung kiên~2.0
+lòng trung thuỷ~3.0
+lòng trung thành~2.0
+lòng trắc ẩn~2.0
+lòng tốt~2.0
+lòng tự trọng~3.0
+lòng vòng~-1.0
+lóng ngóng~-1.0
+lôi cuốn~3.0
+lùn~-2.0
+lún xuống~1.0
+lúng túng~-2.0
+lý thú~3.0
+lý tưởng~2.0
+lý tưởng chủ nghĩa~2.0
+lăng mạ~-3.0
+lăng nhăng~-1.0
+lăng nhục~-4.0
+lơ đảng~-1.0
+lưu luyến~2.0
+lương thiện~2.0
+lương tâm~2.0
+lười biếng~-1.0
+lười nhác~-1.0
+lượm thượm~-1.0
+lạ~-2.0
+lạ lùng~-1.0
+lạ mắt~1.0
+lạ thường~3.0
+lạc hướng~-1.0
+lạc hậu~-1.0
+lạc lõng~-1.0
+lạc lối~-1.0
+lạc quan~1.0
+lạc đường~-2.0
+lạm dụng~-1.0
+lạnh~-1.0
+lạnh lùng~-1.0
+lạnh lẽo~-3.0
+lạnh nhạt~-1.0
+lạt lẽo~-2.0
+lảng tránh~-2.0
+lảo đảo~-2.0
+lấc cấc~-1.0
+lấn chiếm~-2.0
+lấp lánh~-3.0
+lấy làm tiếc~-3.0
+lấy trộm~-3.0
+lầm~-2.0
+lầm bầm~-1.0
+lầm lạc~-1.0
+lầm đường lạc lối~-3.0
+lầy lội~-2.0
+lẩn tránh~-1.0
+lập dị~-1.0
+lập trình~2.0
+lập trước kế hoạch~1.0
+lập tức~1.0
+lật úp~-3.0
+lật đổ~-3.0
+lắp không đúng~-2.0
+lẳng lơ~-1.0
+lặng lẽ~1.0
+lặp lại~-1.0
+lặp đi lặp lại~-1.0
+lẻ~-1.0
+lếch thếch~-3.0
+lễ kỷ niệm~2.0
+lễ phép~2.0
+lịch lãm~2.0
+lịch sử~1.0
+lịch sự~1.0
+lọc~2.0
+lỏng~-2.0
+lỏng lẻo~-1.0
+lố bịch~-3.0
+lố lăng~-4.0
+lỗ hổng~-3.0
+lỗ mãng~-1.0
+lỗi~-2.0
+lỗi lạc~1.0
+lỗi thời~-3.0
+lộn xộn~-1.0
+lộng lẫy~4.0
+lớn lên~1.0
+lờ mờ~-1.0
+lờ đi~-1.0
+lờ đờ~-2.0
+lời an ủi~1.0
+lời chưởi~-3.0
+lời hứa~2.0
+lời khen~2.0
+lời khen ngợi~2.0
+lời nói láo~-1.0
+lời nói phi lý~-2.0
+lời nói xấu~-2.0
+lời phàn nàn~-2.0
+lời trách mắng~-2.0
+lởm chởm~-3.0
+lợi~2.0
+lợi dụng~-2.0
+lợi hại~3.0
+lợi lộc~2.0
+lợi nhuận từ~1.0
+lợi ích~3.0
+lủng củng~-2.0
+lừ đừ~-1.0
+lừa~-1.0
+lừa bịp~-1.0
+lừa dối~-2.0
+lừa gạt~-2.0
+lừng danh~3.0
+lừng lẫy~3.0
+lực lưỡng~2.0
+ma~-1.0
+mai phục~-2.0
+man rợ~-3.0
+mang đến cho cuộc sống~3.0
+mau~1.0
+mau chóng~1.0
+mau lẹ~2.0
+may~2.0
+may mắn~1.0
+may thay~2.0
+minh chứng~2.0
+miễn~1.0
+miễn cưỡng~-2.0
+miễn phí~1.0
+miễn thuế~2.0
+miễn tội~1.0
+mong muốn~1.0
+mong mỏi~-1.0
+mua chuộc~-2.0
+mua lại~1.0
+muộn~-1.0
+mài mòn~-4.0
+màn hình cảm ứng~3.0
+màn hình phẳng~2.0
+màu mỡ~2.0
+màu sắc phù hợp~1.0
+mát~2.0
+mát hơn bình thường~-1.0
+mát mẻ~2.0
+máy móc~-3.0
+mâu thuẫn~-2.0
+mãn tính~-3.0
+méo~-2.0
+méo mó~-2.0
+mê~2.0
+mê hoặc~-4.0
+mê mẩn~2.0
+mê sảng~-3.0
+mênh mông~1.0
+mò~-1.0
+mù~-3.0
+mù mịt~-5.0
+mùi hôi~-2.0
+mùi hôi thối~-3.0
+mũi tẹt~-2.0
+mơ hồ~-1.0
+mơ màng~-2.0
+mơ mộng~5.0
+mơ đi~-3.0
+mơn mởn~2.0
+mưa như trút nước~-3.0
+mưu kế~-3.0
+mưu mô~-1.0
+mưu phản~-2.0
+mưu đồ~-2.0
+mưu đồ bất lương~-3.0
+mướt~3.0
+mượt mà~2.0
+mạch lạc~2.0
+mạnh dạn~3.0
+mạnh khỏe~2.0
+mạo nhận~-2.0
+mảnh khảnh~1.0
+mất~-2.0
+mất bình tĩnh~-2.0
+mất cân bằng~-1.0
+mất nhân tính~-3.0
+mất thời gian~-4.0
+mất tinh thần~-3.0
+mất trí~-3.0
+mất trật tự~-2.0
+mất tín nhiệm~-2.0
+mất tập trung~-1.0
+mất tự nhiên~-2.0
+mất ổn định~-1.0
+mầm bệnh~-1.0
+mẫn tiệp~2.0
+mẫu mực~4.0
+mập mạp~-2.0
+mập mờ~-3.0
+mập nhìn~-3.0
+mật thiết~1.0
+mắc bệnh~-5.0
+mắc bệnh hen~-1.0
+mắc lưới~2.0
+mắng mỏ~-2.0
+mắng nhiếc~-2.0
+mặc cả~-1.0
+mặt dày mày dạn~-3.0
+mẹ kiếp~-5.55
+mến khách~3.0
+mến yêu~3.0
+mềm~1.0
+mềm mỏng~3.0
+mệt~-1.0
+mệt mỏi~-3.0
+mệt nhọc~-2.0
+mệt đừ~-3.0
+mỉa mai~-2.0
+mỉm cười~1.0
+mịn~2.0
+mọi thời điểm~1.0
+mọi thời đại~1.0
+mỏng manh~-1.0
+mỏng như giấy~-1.0
+mốc~3.0
+mối hận thù~-3.0
+mối ác cảm~-2.0
+mối đe dọa~-2.0
+mốt~3.0
+mộc mạc~1.0
+một cách an toàn~2.0
+một cách khôn ngoan~3.0
+một cách kỳ diệu~4.0
+một cách mù quáng~-3.0
+một cách tự nhiên~1.0
+một số ít~-3.0
+một thời gian ngắn~-1.0
+một tràng~-3.0
+mớ hỗn độn~-2.0
+mới~2.0
+mới hoàn toàn~2.0
+mới lạ~1.0
+mới mẻ~2.0
+mới nhất~1.0
+mới năm nay~3.0
+mới phát hiện~1.0
+mới tinh~4.0
+mờ~-1.0
+mờ mắt~-2.0
+mờ mịt~-1.0
+mờ mờ~-2.0
+mờ nhạt~-2.0
+mờ ám~-2.0
+mở heo~-2.0
+mở rộng~2.0
+mỡ~-3.0
+mục rữa~-3.0
+mức~1.0
+mức độ nghiêm trọng~-3.0
+mừng~2.0
+mỹ vị~1.0
+nam tính~1.0
+nan y~-3.0
+nay đây mai đó~-2.0
+ngang bướng~-4.0
+ngang nhiên~-3.0
+ngay lập tức~1.0
+ngay thẳng~1.0
+nghi lễ~1.0
+nghi ngờ~-1.0
+nghi thức~1.0
+nghiêm~-2.0
+nghiêm chỉnh~2.0
+nghiêm khắc~-2.0
+nghiêm ngặt~2.0
+nghiêm trang~1.0
+nghiêm túc~2.0
+nghiên cứu kỹ lưỡng~-1.0
+nghiêng~-3.0
+nghiền nát~-2.0
+nghiệp chướng~-1.0
+nghiệp dư~-3.0
+nghiệt ngã~-4.0
+nghèo~-2.0
+nghèo khó~-3.0
+nghèo nàn~-2.0
+nghèo túng~-1.0
+nghĩ tốt về~3.0
+nghĩa hiệp~2.0
+nghĩa vụ~1.0
+nghẹt~-3.0
+nghệ thuật~3.0
+nghỉ~-1.0
+nghỉ ngơi~1.0
+nghị lực~1.0
+nghịch ngợm~-1.0
+ngoan cường~3.0
+ngoan cố~-4.0
+ngon~2.0
+ngon lành~4.0
+ngon miệng~1.0
+ngoài hành tinh~-2.0
+ngoài ý muốn~-1.0
+ngoại lai~-1.0
+ngu~-3.0
+ngu ngốc~-2.0
+ngu si~-3.0
+ngu đần~-3.0
+nguy cơ~-1.0
+nguy cơ thấp~2.0
+nguy hiểm~-2.0
+nguy nga~4.0
+nguyên~1.0
+nguyên chất~1.0
+nguyên khối~1.0
+nguyên mẫu~1.0
+nguyên sơ~4.0
+nguyên thủy~-2.0
+nguyền rủa~-3.0
+nguyện vọng~1.0
+nguỵ biện~-1.0
+ngà ngà say~-2.0
+ngày càng phát triển~2.0
+ngáp~-1.0
+ngáy~-2.0
+ngây~-1.0
+ngây ngô~-2.0
+ngây ngất~4.0
+ngây thơ~2.0
+ngăn chặn~-2.0
+ngăn cản~-2.0
+ngăn cấm~-1.0
+ngăn nắp~2.0
+ngăn trở~-2.0
+ngơ ngác~-3.0
+ngư lôi~-3.0
+người bán hàng giỏi nhất~2.0
+người bán rong~-1.0
+người bạn~2.0
+người bảo vệ~1.0
+người bị đắm tàu~-1.0
+người cuồng tín~-2.0
+người cướp ngôi~-3.0
+người cầu toàn~2.0
+người du côn~-2.0
+người dâm dục~-3.0
+người dữ tợn~-3.0
+người ghét đàn bà~-3.0
+người giúp việc~1.0
+người giả dối~-2.0
+người gây sự~-2.0
+người hà tiện~-2.0
+người hàm oan~-2.0
+người hâm mộ~2.0
+người hèn hạ~-2.0
+người hèn nhát~-2.0
+người học việc~-1.0
+người kỳ dị~-1.0
+người kỳ quặc~-3.0
+người luôn vui vẻ~1.0
+người lười biếng~-2.0
+người lập dị~-3.0
+người lịch sự~2.0
+người non nớt~-3.0
+người nói dối~-2.0
+người nóng nảy~-1.0
+người phi thường~2.0
+người phản bội~-3.0
+người theo dị giáo~-3.0
+người thua~-1.0
+người tàn tật~-2.0
+người tình~2.0
+người tầm thường~-2.0
+người vô dụng~-3.0
+người yêu~2.0
+người yếu đuối~-3.0
+người ăn cướp~-2.0
+người ăn nói ba hoa~-1.0
+người ăn thịt người~-4.0
+người ăn xin~-2.0
+người điên~-2.0
+người đàn bà chưa chồng~-2.0
+người đàn bà khó tính~-1.0
+người đàn bà tham lam~-3.0
+người đáng khinh bỉ~-3.0
+người đánh lừa~-2.0
+người đần độn~-2.0
+người đểu giả~-1.0
+ngưỡng mộ~3.0
+ngược đãi~-1.0
+ngược đời~-4.0
+ngượng ngùng~-2.0
+ngượng ngịu~-3.0
+ngạc nhiên~3.0
+ngạo mạn~-2.0
+ngạt thở~-2.0
+ngả được~3.0
+ngập~-1.0
+ngập lụt~-1.0
+ngập ngừng~-2.0
+ngắn~-1.0
+ngắn gọn~2.0
+ngắt kết nối~-1.0
+ngọc~2.0
+ngọc đá quý~2.0
+ngọt~3.0
+ngọt diu~2.0
+ngọt lịm~1.0
+ngọt ngào~4.0
+ngốc nghếch~-2.0
+ngồi xổm~-1.0
+ngỗ ngược~-1.0
+ngột ngạt~-1.0
+ngớ ngẩn~-1.0
+ngờ vực~-1.0
+ngụy thiện~-3.0
+ngừng~-1.0
+ngựa giống~3.0
+nham hiểm~-3.0
+nhan sắc~3.0
+nhanh~2.0
+nhanh chóng~2.0
+nhanh như chớp~3.0
+nhanh nhảu~-1.0
+nhanh nhẹn~1.0
+nhanh trí~2.0
+nhiều gia vị~2.0
+nhiều hạt~-1.0
+nhiễm trùng~-3.0
+nhiễm độc~-1.0
+nhiệm màu~4.0
+nhiệt liệt~1.0
+nhiệt tình~2.0
+nhiệt đới~1.0
+nho nhỏ~-1.0
+nhu mì~1.0
+nhu nhược~-2.0
+nhuệ khí~1.0
+nhà chuyên chế~-3.0
+nhà phê bình~-2.0
+nhà vô địch~3.0
+nhà ái quốc~1.0
+nhà độc tài~-3.0
+nhàm chán~-2.0
+nhàn rỗi~-1.0
+nhái chơi~-4.0
+nhát~-1.0
+nhát gan~-3.0
+nhân dân~3.0
+nhân hậu~1.0
+nhân phẩm~2.0
+nhân tài~3.0
+nhân tạo~-1.0
+nhân từ~4.0
+nhân văn~1.0
+nhân vật chính~1.0
+nhân vật phản diện~-2.0
+nhân đạo~2.0
+nhân đức~4.0
+nhã nhặn~1.0
+nhìn hau háu~-3.0
+nhõng nhẽo~-3.0
+nhút nhát~-1.0
+nhăn~-1.0
+nhơ bẩn~-3.0
+nhơ nhuốc~-3.0
+như bị thôi miên~-1.0
+như cao su~-2.0
+như dự đoán~2.0
+như giấy~-1.0
+như kịch~-1.0
+như mọt sách~-1.0
+như một giấc mơ~5.0
+như nhau~2.0
+như nhà hàng~2.0
+như thợ~2.0
+như trẻ con~-1.0
+như vua chúa~2.0
+như đá~-1.0
+nhược điểm~-1.0
+nhượng bộ~-1.0
+nhạo báng~-3.0
+nhạt nhẽo~-2.0
+nhạy cảm~1.0
+nhảm~-3.0
+nhảm nhí~-3.0
+nhấn~2.0
+nhấn mạnh~-1.0
+nhấp nhô~-1.0
+nhất quán~2.0
+nhầm lẫn~-2.0
+nhẫn nại~3.0
+nhẫn tâm~-2.0
+nhận chìm~-1.0
+nhận ra~1.0
+nhận được sự chú ý~1.0
+nhẹ cân~3.0
+nhẹ dạ~-1.0
+nhẹ nhàng~1.0
+nhếch nhác~-4.0
+nhịp nhàng~3.0
+nhọn~-2.0
+nhỏ bé~-3.0
+nhỏ mọn~-2.0
+nhỏ xíu~-1.0
+nhỏng nhẻo~-1.0
+nhốt~-2.0
+nhồi nhét~-3.0
+nhộn nhịp~3.0
+nhớ nhà~-2.0
+nhớp nhúa~-2.0
+nhớt~-3.0
+nhục nhã~-3.0
+nhức~-1.0
+nhức nhối~-1.0
+những bước tiến~2.0
+niềm hân hoan~3.0
+niềm tin~2.0
+niềm vui~3.0
+niềm vui sướng~3.0
+non nớt~-2.0
+nuôi~1.0
+nuôi dưỡng~2.0
+nuôi nấng~2.0
+nuông chiều~-1.0
+náo nhiệt~2.0
+náo động~-3.0
+nâng cao~2.0
+nâng cấp~1.0
+nâng lên~2.0
+ném bom~-3.0
+nép mình~-2.0
+nét đặc biệt~2.0
+nên thơ~3.0
+nên tồi tệ~-1.0
+nêu bật~2.0
+níu kéo~-2.0
+nói bóng gió~-1.0
+nói bậy bạ~-2.0
+nói dông dài~-2.0
+nói dối~-2.0
+nói láo~-2.0
+nói lảm nhảm~-1.0
+nói lắp~-1.0
+nói quanh co~-1.0
+nói xàm~-1.0
+nói xấu~-3.0
+nói đùa~1.0
+nóng bỏng~1.0
+nóng hổi~1.0
+nóng như thiêu~-1.0
+nóng nảy~-1.0
+nóng vội~-3.0
+nô dịch hoá~-3.0
+nô lệ~-1.0
+nôn ra~-3.0
+nông~-2.0
+nông cạn~-2.0
+năm sao~5.0
+năng khiếu~2.0
+năng lượng~1.0
+năng lực~3.0
+năng lực tiềm tàng~2.0
+năng nổ~2.0
+năng suất~1.0
+năng động~2.0
+nơi cực lạc~2.0
+nơi tôn nghiêm~2.0
+nước bóng~1.0
+nước mắt~-1.0
+nạn kẹt xe~-2.0
+nạn nhân~-2.0
+nạn đói~-2.0
+nản lòng~-1.0
+nảy sinh~1.0
+nặng~-1.0
+nặng mùi~-3.0
+nặng nề~-2.0
+nặng tay~-3.0
+nịnh hót~-1.0
+nọc độc~-3.0
+nồng nhiệt~3.0
+nổ~-2.0
+nổi bọt~-2.0
+nổi cơn thịnh nộ~-3.0
+nổi danh~3.0
+nổi giận~-3.0
+nổi khùng~-4.0
+nổi loạn~-4.0
+nổi tiếng~3.0
+nỗi buồn~-1.0
+nỗi kinh sợ~3.0
+nỗi đau~-2.0
+nỗi đau đớn~-2.0
+nội dung khiêu dâm~-3.0
+nở hoa~1.0
+nở rất lớn~-2.0
+nụ cười~1.0
+nụ cười khinh bỉ~-2.0
+nửa giá~1.0
+nửa vời~-1.0
+nữ anh hùng~2.0
+nữ thần~2.0
+nực cười~-2.0
+oai nghiêm~1.0
+oai vệ~2.0
+oan sai~-2.0
+oi ả~-2.0
+om sòm~-3.0
+oán giận~-2.0
+phai màu~-1.0
+phi luân lý~-1.0
+phi lý~-2.0
+phi pháp~-1.0
+phi thực tế~-1.0
+phi truyền thống~3.0
+phi đạo đức~-3.0
+phiêu lưu~2.0
+phiêu lưu hành động~1.0
+phiến diện~-2.0
+phiền~-2.0
+phiền hà~-2.0
+phiền muộn~-2.0
+phiền phức~-1.0
+phong cách~2.0
+phong lưu~2.0
+phong phú~-1.0
+phun ra~3.0
+phung phí~-2.0
+phàn nàn~-2.0
+phá hoại~-2.0
+phá hỏng~-2.0
+phá hủy~-3.0
+phá ngang~-3.0
+phá sản~-3.0
+phá vỡ~-3.0
+phát cuồng~-1.0
+phát cáu~-2.0
+phát hoảng~-4.0
+phát ra~1.0
+phát sáng~1.0
+phát triển~1.0
+phát triển quá mức~-2.0
+phát triển tốt~4.0
+phát triển vượt bậc~2.0
+phát xít~-5.0
+phát đạt~2.0
+phân biệt chủng tộc~-2.0
+phân biệt đối xử~-2.0
+phân chia~-2.0
+phân mảnh~-1.0
+phân nhánh~2.0
+phân rã~-2.0
+phân tâm~-1.0
+phân tích~-1.0
+phép lịch sự~2.0
+phép màu~1.0
+phê~1.0
+phê bình~-2.0
+phê duyệt~2.0
+phê phán~-3.0
+phì nhiêu~1.0
+phí tổn~-2.0
+phòng thủ~-1.0
+phóng thích~2.0
+phóng túng~-1.0
+phóng đại~-1.0
+phóng đảng~-3.0
+phô trương~-2.0
+phù phiếm~-1.0
+phù thuỷ~-2.0
+phúc lợi~1.0
+phương thuốc~1.0
+phước lành~2.0
+phạm lỗi~-1.0
+phạm pháp~-1.0
+phạm tội~-2.0
+phạm tội mưu phản~-4.0
+phải chăng~3.0
+phải có~4.0
+phản bội~-4.0
+phản diện~-3.0
+phản nghịch~-4.0
+phản tác dụng~-1.0
+phản tư~2.0
+phản đối~-2.0
+phản ứng thái quá~-1.0
+phấn chấn~3.0
+phấn khích~2.0
+phấn khởi~3.0
+phấn đấu~2.0
+phần thưởng~1.0
+phẩm hạnh xấu~-1.0
+phẫn nộ~-2.0
+phẳng~2.0
+phẳng phiu~2.0
+phế phẩm~-1.0
+phỉ báng~-3.0
+phối hợp~2.0
+phồn thịnh~3.0
+phồn vinh~2.0
+phồng lên~-3.0
+phởn~4.0
+phởn phơ~4.0
+phụ bạc~-4.0
+phụ thuộc~-1.0
+phục chức~1.0
+phục hồi~2.0
+phủ nhận~-2.0
+phủ định~-2.0
+phức~-1.0
+phức tạp~-1.0
+qua loa~-2.0
+quan hệ đối tác~1.0
+quan liêu~-1.0
+quan tâm~3.0
+quang vinh~3.0
+quang đãng~1.0
+quanh co~-1.0
+quen thuộc~1.0
+quyến rũ~2.0
+quyết liệt~-2.0
+quyết tâm~2.0
+quyền lực~1.0
+quyền thống trị~-1.0
+quà tặng~2.0
+quá~-3.0
+quá chật~-4.0
+quá cẩn thận~-2.0
+quá hiếu động~-1.0
+quá hăng hái~-2.0
+quá hạn~-2.0
+quá mạnh mẽ~-2.0
+quá mốt~-2.0
+quá mức~-2.0
+quá ngây thơ~-1.0
+quá phức tạp~-1.0
+quá thấp~-1.0
+quá đa cảm~-1.0
+quá đáng~-4.0
+quá đơn giản~-1.0
+quá đầy~-4.0
+quá độ~-1.0
+quái~-3.0
+quái dị~-4.0
+quái gở~-2.0
+quái vật~-2.0
+quái đản~-3.0
+quán quân~3.0
+quát~-2.0
+quân tiếp viện~1.0
+què~-2.0
+quên~-1.0
+quý~1.0
+quý giá~3.0
+quý mến~3.0
+quý phái~2.0
+quý trọng~1.0
+quý tộc~3.0
+quả quyết~1.0
+quản lý tốt~2.0
+quản lý tồi~-2.0
+quản lý vi mô~-1.0
+quảng cáo~-1.0
+quấn~-2.0
+quất~-1.0
+quấy phá~-2.0
+quấy rầy~-1.0
+quấy rối~-3.0
+quở trách~-2.0
+quỷ quyệt~-1.0
+ra lệnh~-1.0
+ra vẻ~-1.0
+ra vẻ nghiêm trang~-1.0
+ranh ma~-1.0
+ranh mãnh~-1.0
+ru ngủ~-2.0
+run rẩy~-2.0
+rung động~3.0
+rào chắn~-2.0
+rào đón~-2.0
+rác~-3.0
+rác rưởi~-3.0
+rách~-1.0
+rát~-1.0
+rã rời~-2.0
+rên rỉ~-1.0
+rình~-1.0
+rít lên~-3.0
+rò rỉ~-1.0
+rõ rệt~2.0
+rùng mình~-1.0
+rùng rợn~-2.0
+rút~-2.0
+rút lui~-1.0
+rút ngắn~2.0
+rút đi~-1.0
+rạch~-1.0
+rạn nứt~-1.0
+rạng danh~1.0
+rạng rỡ~2.0
+rất cao~4.0
+rất lơn~3.0
+rất tệ~-5.0
+rầu rĩ~-2.0
+rầy la~-2.0
+rậm~-1.0
+rập khuôn~-1.0
+rắc rối~-1.0
+rắn chắc~1.0
+rắn lục~-2.0
+rẻ~-1.0
+rẻ mạc~-2.0
+rẻ tiền~-1.0
+rỉ~-3.0
+rỉ sét~-1.0
+rối loạn~-2.0
+rối loạn chức năng~-2.0
+rối loạn tâm thần~-1.0
+rổng tuếch~-1.0
+rỗ~-2.0
+rỗng~-2.0
+rộng~3.0
+rộng lượng~2.0
+rộng lớn~4.0
+rộng rãi~3.0
+rớt~-2.0
+rời rạc~-2.0
+rụt rè~-1.0
+rủi ro~-2.0
+rực rỡ~5.0
+sai~-2.0
+sai lầm~-2.0
+sai quả~2.0
+sai sót~-2.0
+sai trái~-3.0
+sang~2.0
+sang trọng~2.0
+sau cùng~1.0
+say~-1.0
+say mê~3.0
+say rượu~-4.0
+say sưa~2.0
+scandal~-3.0
+sinh lợi~2.0
+sinh động~3.0
+siêng năng~1.0
+siêu bạo lực~-3.0
+siêu bảo thủ~-3.0
+siêu cao cấp~5.0
+siêu nhỏ gọn~4.0
+siêu phàm~5.0
+siêu sao~3.0
+siêu thành công~5.0
+siêu việt~4.0
+siêu đầu bếp~3.0
+so sánh được~1.0
+soi sáng~2.0
+sum họp~1.0
+sum sê~3.0
+sung mãn~3.0
+sung sướng~4.0
+sung túc~2.0
+suy giảm~-2.0
+suy nhược~-3.0
+suy sụp~-2.0
+suy thoái~-2.0
+suy thoái kinh tế~-2.0
+suy vong~-3.0
+suy yếu~-2.0
+suy đồi~-3.0
+sành ăn~4.0
+sách khải huyền~-3.0
+sáng~1.0
+sáng bóng~1.0
+sáng chói~4.0
+sáng dạ~4.0
+sáng suốt~1.0
+sáng sủa~2.0
+sáng tạo~2.0
+sáng tỏ~4.0
+sáo ngữ~-2.0
+sáo rỗng~-2.0
+sâu bệnh~-2.0
+sóng gió~-1.0
+sôi nổi~4.0
+sôi sục~-3.0
+sôi động~2.0
+sùng bái~4.0
+súc tích~2.0
+súc vật~-1.0
+săn đuổi~-1.0
+sũng~-2.0
+sơ suất~-1.0
+sơ sài~-2.0
+sư mài mòn~-2.0
+sương mù~-1.0
+sướng~2.0
+sạch~2.0
+sạch sẽ~1.0
+sảng khoái~5.0
+sầu não~-2.0
+sập~-2.0
+sắc~2.0
+sắc nét~2.0
+sắc sảo~3.0
+sắc thái~1.0
+sắc đẹp~3.0
+sẵn lòng~1.0
+sẵn sàng~1.0
+sỉ nhục~-2.0
+số phận~-1.0
+số tiền~1.0
+sốc~-2.0
+sống~-1.0
+sống còn~1.0
+sống lại~1.0
+sống động~3.0
+sốt ruột~-2.0
+sốt sắng~2.0
+sổ mũi~-1.0
+sớm~1.0
+sờn~-1.0
+sợ~-2.0
+sợ chỗ vây kín~-1.0
+sợ hãi~-1.0
+sợ sệt~-3.0
+sụp đổ~-1.0
+sụt giá~-1.0
+sụt giảm~-2.0
+sức hút~2.0
+sức khỏe~2.0
+sức lôi cuốn~3.0
+sức mạnh~2.0
+sức quyến rũ~3.0
+sức sống~2.0
+sức ép~-2.0
+sử dụng được~1.0
+sửa~2.0
+sửa chữa~1.0
+sửa được~-1.0
+sửng sốt~-1.0
+sự an toàn~2.0
+sự an ủi~1.0
+sự buồn bực~-2.0
+sự buồn rầu~-2.0
+sự buồn tẻ~-3.0
+sự bình tĩnh~1.0
+sự bóc lột~-3.0
+sự bùng nổ~-2.0
+sự bạo dâm~-2.0
+sự bảo vệ~1.0
+sự bất an~-1.0
+sự bất công~-3.0
+sự bất hoà~-1.0
+sự bất hạnh~-2.0
+sự bất lực~-1.0
+sự bất mãn~-3.0
+sự bất tín~-2.0
+sự bất đồng~-2.0
+sự bất ổn~-1.0
+sự bế tắt~-2.0
+sự bền bỉ~2.0
+sự bền chí~2.0
+sự bị động~-1.0
+sự bịa đặt~-3.0
+sự bực bội~-1.0
+sự ca tụng~3.0
+sự can thiệp~-1.0
+sự cao cả~3.0
+sự cao quý~3.0
+sự cao thượng~3.0
+sự cau có~-2.0
+sự chia ra~-1.0
+sự chinh phục~2.0
+sự chiếu cố~-2.0
+sự chu đáo~3.0
+sự chua cay~2.0
+sự chua xót~-2.0
+sự chào~1.0
+sự chân thành~3.0
+sự chém giết~-2.0
+sự chúc tụng~2.0
+sự chảy máu~-1.0
+sự chế ngự~-3.0
+sự chết~-1.0
+sự chỉ trích~-1.0
+sự chịu được~1.0
+sự chống đối~-1.0
+sự chừng mực~1.0
+sự cuồng tín~-2.0
+sự cô độc~-2.0
+sự công bằng~1.0
+sự công kích~-2.0
+sự căm ghét~-4.0
+sự căm phẫn~-3.0
+sự căng thẳng~-2.0
+sự cải thiện~2.0
+sự cảm phục~3.0
+sự cố~-1.0
+sự cổ vũ~2.0
+sự cộng tác~2.0
+sự cứng đầu~-1.0
+sự cứu rỗi~1.0
+sự cự tuyệt~-3.0
+sự diệt vong~-2.0
+sự dâm đảng~-2.0
+sự dũng cảm~3.0
+sự dạt dào~2.0
+sự dồi dào~3.0
+sự ghê tởm~-3.0
+sự gia tăng~2.0
+sự gian trá~-3.0
+sự giàu có~3.0
+sự giả bộ~-3.0
+sự giả vờ~-2.0
+sự giảm xuống~-2.0
+sự giới hạn~-2.0
+sự giới thiệu~2.0
+sự gò bó~-1.0
+sự gần gũi~1.0
+sự gắn kết~2.0
+sự gắt gỏng~-3.0
+sự hiểu biết~3.0
+sự hiểu lầm~-1.0
+sự hoà hợp~2.0
+sự hoà tan~2.0
+sự hoàn thành~3.0
+sự hoảng sợ~-4.0
+sự huy hoàng~3.0
+sự huyên náo~-1.0
+sự huỷ diệt~-3.0
+sự hài lòng~2.0
+sự hành hạ~-2.0
+sự háo hức~1.0
+sự hâm mộ~3.0
+sự hân hoan~3.0
+sự hòa giải~2.0
+sự hăm dọa~-1.0
+sự hăng hái~2.0
+sự hạn chế~-2.0
+sự hạnh phúc~2.0
+sự hết lòng~3.0
+sự hối hận~-1.0
+sự hớn hở~2.0
+sự hợp lý~1.0
+sự hợp tác~2.0
+sự khan hiếm~-1.0
+sự khen ngợi~3.0
+sự khinh thường~-3.0
+sự khiếm nhã~-2.0
+sự khiển trách~-3.0
+sự khuyến khích~1.0
+sự khuất phục~-2.0
+sự khâm phục~3.0
+sự khéo léo~3.0
+sự khôn ngoan~2.0
+sự khúm núm~-2.0
+sự khước từ~-1.0
+sự khắc khe~-1.0
+sự khẳng định~1.0
+sự kinh tởm~-3.0
+sự kiên trì~1.0
+sự kéo lê~-2.0
+sự kỳ thị~-3.0
+sự la ó~-2.0
+sự linh hoạt~3.0
+sự lo lắng~-1.0
+sự lo âu~-2.0
+sự làm bộ~-1.0
+sự làm nhục~-3.0
+sự làm phiền~-2.0
+sự làm phản~-4.0
+sự lên án~-3.0
+sự lúng túng~-2.0
+sự lười biếng~-2.0
+sự lạm phát~-1.0
+sự lật đổ~-2.0
+sự lắp vào không khít~-1.0
+sự lộn xộn~-3.0
+sự lộng hành~-2.0
+sự lừa dối~-2.0
+sự may rủi~-1.0
+sự minh mẫn~2.0
+sự mâu thuẫn~-1.0
+sự mãn nguyện~1.0
+sự mê mẩn~3.0
+sự mênh mông~2.0
+sự mạo hiểm~-1.0
+sự mất~-2.0
+sự mềm mại~2.0
+sự mệt mỏi~-1.0
+sự mổ xẻ~-1.0
+sự nghi ngờ~-2.0
+sự ngu đần~-3.0
+sự nguy hiểm~-1.0
+sự nguy nan~-1.0
+sự ngưỡng mộ~3.0
+sự ngược đãi~-1.0
+sự ngọt ngào~3.0
+sự ngộ nhận~-1.0
+sự ngờ nghệch~2.0
+sự ngờ vực~-2.0
+sự nhanh nhẹn~2.0
+sự nhân đạo~3.0
+sự nhạo báng~-3.0
+sự nhạy bén~3.0
+sự nuôi dưỡng~1.0
+sự nông cạn~-3.0
+sự nặng nề~-2.0
+sự nổi giận~-2.0
+sự phi lý~-1.0
+sự phong phú~2.0
+sự phá huỷ~-4.0
+sự phá sản~-2.0
+sự phát đạt~1.0
+sự phô trương~3.0
+sự phạm pháp~-2.0
+sự phản bội~-4.0
+sự phản đối~-2.0
+sự phẫn nộ~-2.0
+sự phế bỏ~-1.0
+sự phối hợp~2.0
+sự phồn thịnh~2.0
+sự phụ bạc~-4.0
+sự phục hưng~1.0
+sự phục hồi~3.0
+sự phủ nhận~-2.0
+sự qua đời~-1.0
+sự quan tâm~3.0
+sự quyến rũ~3.0
+sự quả quyết~1.0
+sự quản lý tồi~-2.0
+sự quấy rầy~-2.0
+sự quấy rối~-2.0
+sự rung chuyển~-1.0
+sự rà soát~-1.0
+sự rơi~-3.0
+sự rập khuôn~-2.0
+sự rối loạn~-2.0
+sự rộng rãi~3.0
+sự rủi ro~-1.0
+sự sa ngã~-1.0
+sự sai lầm~-1.0
+sự sung sướng~3.0
+sự sáng ngời~3.0
+sự sáng suốt~3.0
+sự sáng tạo~3.0
+sự sâu sắc~3.0
+sự sâu xa~3.0
+sự sắc sảo~2.0
+sự sỉ nhục~-2.0
+sự sống lại~2.0
+sự sụp đổ~-4.0
+sự tan vỡ~-2.0
+sự tha hóa~-1.0
+sự thanh bình~3.0
+sự thanh tao~2.0
+sự thao túng~-2.0
+sự thay đổi đột ngột~-4.0
+sự thiêng liêng~1.0
+sự thiếu~-2.0
+sự thiếu sót~-2.0
+sự thiếu ăn~-3.0
+sự thoái hóa~-2.0
+sự thoả mãn~1.0
+sự thoả thuận~2.0
+sự thuận lợi~2.0
+sự thành công~3.0
+sự thành thạo~2.0
+sự thành tâm~3.0
+sự thách thức~-1.0
+sự thán phục~3.0
+sự tháo vát~3.0
+sự thâm thuý~3.0
+sự thân mật~1.0
+sự thích hợp~1.0
+sự thích nghi~1.0
+sự thích thú~3.0
+sự thô~-1.0
+sự thô bỉ~-3.0
+sự thô tục~-3.0
+sự thông minh~3.0
+sự thông thái~3.0
+sự thông đồng~-2.0
+sự thù ghét~-4.0
+sự thù hận~-2.0
+sự thù oán~-3.0
+sự thương tiếc~-1.0
+sự thưởng thức~3.0
+sự thất bại~-2.0
+sự thất vọng~-3.0
+sự thận trọng~2.0
+sự thật~1.0
+sự thỏa hiệp~1.0
+sự thống khổ~-4.0
+sự thổi phồng~-2.0
+sự tin cậy~3.0
+sự tin tưởng~2.0
+sự tinh luyện~2.0
+sự tiêu diệt~-4.0
+sự tiến bộ~2.0
+sự tiết kiệm~1.0
+sự tiện lợi~1.0
+sự trì hoãn~-1.0
+sự trấn áp~-2.0
+sự trống rỗng~-1.0
+sự trụy lạc~-2.0
+sự trừng phạt~-2.0
+sự tàn nhẫn~-4.0
+sự tàn phá~-3.0
+sự tàn sát~-3.0
+sự táo bạo~3.0
+sự tôn kính~3.0
+sự tôn trọng~3.0
+sự tăng cường~1.0
+sự tươi mát~3.0
+sự tưởng tượng~2.0
+sự tầm thường~-3.0
+sự tận tuỵ~3.0
+sự tận tâm~3.0
+sự tận tình~3.0
+sự tức giận~-3.0
+sự từ chối~-3.0
+sự từ chức~-1.0
+sự tự do~2.0
+sự u sầu~-3.0
+sự va mạnh~-1.0
+sự vi phạm~-2.0
+sự vong ân~-2.0
+sự vui mừng~1.0
+sự vui nhộn~3.0
+sự vui vẻ~1.0
+sự vui đùa~3.0
+sự vâng lời~1.0
+sự vỡ mộng~-2.0
+sự vỡ nợ~-3.0
+sự vững vàng~1.0
+sự xa lạ~-1.0
+sự xung khắc~-3.0
+sự xung đột~-2.0
+sự xuyên tạc~-3.0
+sự xuất chúng~2.0
+sự xâm phạm~-2.0
+sự xúc động~3.0
+sự xấc xược~-2.0
+sự xấu hổ~-2.0
+sự xấu xí~-2.0
+sự yêu thích~3.0
+sự ám sát~-1.0
+sự ám ảnh~-2.0
+sự áp bức~-2.0
+sự ân cần~3.0
+sự ép buộc~-2.0
+sự ít ỏi~-2.0
+sự ăn mòn~-3.0
+sự đa nghi~-1.0
+sự đau~-2.0
+sự đau khổ~-3.0
+sự đau đớn~-2.0
+sự điên dại~-1.0
+sự điều độ~1.0
+sự đàn áp~-1.0
+sự đáng tin cậy~2.0
+sự đánh giá cao~2.0
+sự đánh lừa~-2.0
+sự đói kém~-1.0
+sự đóng góp~2.0
+sự đơn điệu~-3.0
+sự đẩy mạnh~2.0
+sự đắt tiền~-2.0
+sự đề phòng~1.0
+sự đố kỵ~-1.0
+sự đối lập~-2.0
+sự đổi mới~2.0
+sự độc đáo~3.0
+sự ảo tưởng~-1.0
+sự ấm áp~2.0
+sự ồn ào~-1.0
+tai biến~-5.0
+tai hoạ~-2.0
+tai hại~-4.0
+tai họa~-3.0
+tai nạn~-1.0
+tai ương~-3.0
+tao nhã~4.0
+tay sai~-1.0
+teo lại~-3.0
+teo đi~-1.0
+tha cho~1.0
+tha thiết~2.0
+tha thứ~1.0
+tham lam~-3.0
+tham nhũng~-3.0
+tham vọng~-1.0
+tham ô~-3.0
+tham ăn~-2.0
+than thở~-1.0
+than vãn~-2.0
+thanh bình~2.0
+thanh danh~2.0
+thanh giáo~-2.0
+thanh khiết~2.0
+thanh lý~-1.0
+thanh lịch~4.0
+thanh lọc~1.0
+thanh nhã~2.0
+thanh tao~2.0
+thanh tú~2.0
+thao thức~-1.0
+theo nguyên tắc~2.0
+theo phong tục~1.0
+thi hành~-1.0
+thiên tai~-4.0
+thiên thần~3.0
+thiên tài~4.0
+thiên vị~-2.0
+thiên đàng~1.0
+thiên đường~3.0
+thiêng liêng~3.0
+thiến~-2.0
+thiết lập~1.0
+thiết tha~1.0
+thiết thực~1.0
+thiết yếu~2.0
+thiếu~-3.0
+thiếu chính xác~-1.0
+thiếu hiệu quả~-2.0
+thiếu hụt~-1.0
+thiếu khả năng~-2.0
+thiếu kinh nghiệm~-1.0
+thiếu kiên nhẫn~-2.0
+thiếu nắng lực~-2.0
+thiếu suy xét~-2.0
+thiếu sót~-2.0
+thiếu sự chuẩn bị~-2.0
+thiếu thuyết phục~-2.0
+thiếu thận trọng~-2.0
+thiếu thốn~-2.0
+thiếu trang nhã~-1.0
+thiếu tế nhị~-1.0
+thiền~1.0
+thiển cận~-1.0
+thiểu năng~-1.0
+thiện~1.0
+thiện chí~2.0
+thiệt thòi~-2.0
+thon thả~1.0
+thong dong~2.0
+thong thả~2.0
+thoái hoá~-2.0
+thoái hóa~-2.0
+thoái thác~-3.0
+thoáng gió~2.0
+thoáng khí~2.0
+thoả hiệp~1.0
+thoả mãn~1.0
+thoả đáng~1.0
+thoải mái~2.0
+thu hút~2.0
+thu hút sự chú ý~3.0
+thu hồi~-2.0
+thu được~2.0
+thua~-2.0
+thuyết phục~1.0
+thuyền mành~-3.0
+thuê~2.0
+thuần~1.0
+thuận lợi~3.0
+thuận tay phải~2.0
+thuận tiện~3.0
+thuốc giảm đau~-2.0
+thuộc về người điên~-3.0
+thuỳ mị~1.0
+thài bình~4.0
+thành công~3.0
+thành kiến~-2.0
+thành quả~2.0
+thành thạo~2.0
+thành thật~2.0
+thành thị~1.0
+thành tài~3.0
+thành tích~3.0
+thành tựu~4.0
+thành đạt~3.0
+thác loạn~-2.0
+thách~-1.0
+thách thức~1.0
+thái quá~-1.0
+thái độ xa lánh~-1.0
+thán phục~3.0
+thánh~3.0
+thánh hoá~3.0
+tháo~-1.0
+tháo vát~2.0
+thâm hụt~-2.0
+thâm thuý~2.0
+thân~3.0
+thân mật~1.0
+thân thiết~1.0
+thân thiện~2.0
+thân thiện người dùng~3.0
+thân tình~1.0
+thân ái~2.0
+thây ma~-1.0
+thép không gỉ~2.0
+thét~-3.0
+thê thảm~-5.0
+thêm nghị lực~3.0
+thêm sinh lực~2.0
+thích~2.0
+thích hơn~1.0
+thích ngay~2.0
+thích nghi~2.0
+thích thuyết giáo~-1.0
+thích thú~4.0
+thích thể thao~2.0
+thích đáng~1.0
+thích đánh nhau~-3.0
+thô~-2.0
+thô bạo~-3.0
+thô bỉ~-3.0
+thô kệch~-1.0
+thô lỗ~-2.0
+thô sơ~-3.0
+thô thiển~-2.0
+thô tục~-3.0
+thôi miên~-3.0
+thông báo~1.0
+thông cảm~2.0
+thông dụng~1.0
+thông gió~3.0
+thông minh~4.0
+thông qua~1.0
+thông suốt~3.0
+thông thái~1.0
+thông thường~1.0
+thông thạo~3.0
+thông đồng~-2.0
+thù ghét~-3.0
+thù nghịch~-4.0
+thù oán~-3.0
+thù địch~-2.0
+thú tính~-2.0
+thú vị~5.0
+thúc ép~-1.0
+thúc đẩy~1.0
+thúi~-4.0
+thăng hoa~3.0
+thơ trữ tình~2.0
+thơm~2.0
+thơm ngon~5.0
+thư giãn~1.0
+thư thái~2.0
+thưa thớt~-1.0
+thương hại~-2.0
+thương mại~1.0
+thương tâm~-5.0
+thương tích~-2.0
+thương xót~2.0
+thương yêu~2.0
+thường dùng~1.0
+thưởng~2.0
+thưởng thức~3.0
+thượng võ~2.0
+thạo~2.0
+thạo tin~1.0
+thảm hại~-4.0
+thảm họa~-4.0
+thảm khốc~-5.0
+thảm kịch~-3.0
+thấm thía~3.0
+thấm vào~-1.0
+thấp cấp~-1.0
+thấp kém~-3.0
+thất bại~-2.0
+thất bại hoàn toàn~-5.0
+thất học~-3.0
+thất kinh~-5.0
+thất nghiệp~-1.0
+thất thường~-1.0
+thất vọng~-3.0
+thần bí~2.0
+thần chú~-1.0
+thần diệu~4.0
+thần kinh~-1.0
+thần kỳ~5.0
+thần thoại~5.0
+thần thánh~3.0
+thần tài~2.0
+thần tượng~3.0
+thẩm quyền~2.0
+thẫn thờ~-2.0
+thậm tệ~-4.0
+thận trọng~-2.0
+thật~2.0
+thật lòng~2.0
+thật thà~1.0
+thật thú vị~2.0
+thật đáng buồn~-2.0
+thắng~2.0
+thắng cuộc~2.0
+thắng lợi~3.0
+thắt cổ~-2.0
+thằng ngốc~-3.0
+thằng đểu~-1.0
+thẳng ra~1.0
+thẳng đều~1.0
+thặng dư~-2.0
+thế bí~-1.0
+thế giới~3.0
+thế giới thực~1.0
+thề~1.0
+thể dục~2.0
+thể thao~2.0
+thịnh hành~1.0
+thịnh vượng~3.0
+thỏa mản~2.0
+thỏa đáng~1.0
+thối~-2.0
+thối nát~-3.0
+thống nhất~2.0
+thống trị~-1.0
+thổi đi~3.0
+thờ ơ~-1.0
+thời gian hoang phí~-2.0
+thời gian nghỉ ngơi~1.0
+thời kỳ phục hưng~3.0
+thời kỳ đen tối~-2.0
+thời thượng~4.0
+thụ động~-1.0
+thủ cựu~-2.0
+thủ phạm~-2.0
+thủ tiêu~-4.0
+thủ đoạn~-1.0
+thứ ghê tởm~-3.0
+thứ nhất~1.0
+thứ phẩm~-3.0
+thức ăn nhanh~-2.0
+thừa~-2.0
+thừa cân~-2.0
+thừa kế~1.0
+thừa nhận~2.0
+thử~1.0
+thử thách~-3.0
+thực chất~1.0
+thực hiện đầy đủ~2.0
+thực thi~1.0
+thực tiễn~1.0
+thực tế~1.0
+tia~1.0
+tin~2.0
+tin chắc~2.0
+tin cậy~1.0
+tin tưởng~2.0
+tin tặc~-3.0
+tin được~1.0
+tin đồn~-1.0
+tinh~2.0
+tinh mắt~1.0
+tinh nghịch~-2.0
+tinh quái~-1.0
+tinh thần tự do~2.0
+tinh túy~2.0
+tinh tươm~4.0
+tinh tế~5.0
+tinh vi~3.0
+tinh xảo~2.0
+tiên phong~2.0
+tiêu biểu~1.0
+tiêu chuẩn~1.0
+tiêu chuẩn hoá~1.0
+tiêu cực~-1.0
+tiêu diệt~-3.0
+tiêu hao~-2.0
+tiêu khiển~-1.0
+tiếc~-2.0
+tiếc nuối~-3.0
+tiến bộ~2.0
+tiến lên~2.0
+tiến tới~2.0
+tiếng cãi lộn~-2.0
+tiếng cười~1.0
+tiếng kêu thét lên~-3.0
+tiếng ngáy~-2.0
+tiếng rên rỉ~-1.0
+tiếng thét~-2.0
+tiếng tăm~1.0
+tiếng uỵch~-1.0
+tiếng xì xì~-1.0
+tiếng xấu~-2.0
+tiếng ầm ĩ~-1.0
+tiếng ồn~-1.0
+tiếng ồn ào~-2.0
+tiết hạnh~3.0
+tiết kiệm~1.0
+tiết kiệm điện~3.0
+tiết lộ~-1.0
+tiết lộ bí mật~-1.0
+tiềm năng~1.0
+tiềm tàng~1.0
+tiền lệ~1.0
+tiền thưởng~2.0
+tiều tuỵ~-2.0
+tiệc~2.0
+tiện dụng~2.0
+tiện lợi~3.0
+to~1.0
+to mồm~-3.0
+to tiếng~-1.0
+toàn cầu~1.0
+toàn diện~3.0
+toàn năng~3.0
+toàn vẹn~2.0
+toả nắng~3.0
+toả sáng~4.0
+tra tấn~-4.0
+trang hoàng~1.0
+trang nghiêm~1.0
+trang nhã~1.0
+trang trí~2.0
+tranh biếm hoạ~-2.0
+tranh cãi~-2.0
+tranh không khoan nhượng~2.0
+tranh luận~-1.0
+trao quyền~1.0
+trao tặng~1.0
+trau chuốt~1.0
+trau dồi~2.0
+treo~-1.0
+tri thức~1.0
+triệu chứng~-1.0
+trong~2.0
+trong nhu cầu~4.0
+trong suốt~1.0
+trong sạch~2.0
+trong trắng~1.0
+trong trẻo~1.0
+trung bình~1.0
+trung kiên~2.0
+trung nghĩa~2.0
+trung thành~2.0
+trung thực~2.0
+trung tâm~1.0
+truy tố~-2.0
+truyền cảm hứng~3.0
+truyền dạy~3.0
+truyền nhiễm~-2.0
+truỵ lạc~-2.0
+tràn ngập~-1.0
+tràn ra~-1.0
+trách mắng~-2.0
+trách nhiệm~2.0
+trái ngược~-2.0
+trái phép~-1.0
+trái tim~1.0
+trái với đạo đức~-3.0
+tráng kiện~1.0
+tráng lệ~4.0
+tránh~-1.0
+tránh khỏi thất bại~-2.0
+tránh xa~-2.0
+tráo bài~-1.0
+trân trọng~1.0
+trâng tráo~-3.0
+trên giá~-3.0
+trên hè phố~1.0
+trên máy bay~-2.0
+trên toàn cầu~1.0
+trên trung bình~2.0
+trì hoãn~-1.0
+trì trệ~-2.0
+trìu mến~4.0
+trí thông minh~2.0
+trí tuệ~3.0
+trò cười~-3.0
+trò hề~-2.0
+trông đẹp mắt~4.0
+trù liệu~-2.0
+trù tính~-3.0
+trú ẩn~-2.0
+trúng~1.0
+trút giận~-3.0
+trơ tráo~-3.0
+trơ trơ~-1.0
+trơ trẽn~-2.0
+trơ trụi~-2.0
+trơn~-1.0
+trơn tru~3.0
+trưởng thành~1.0
+trượt~-2.0
+trạng thái chán nản~-2.0
+trạng thái ngẩn ngơ~-3.0
+trả giá~-2.0
+trả lương thấp~-1.0
+trả thù~-2.0
+trả thù lao~1.0
+trả đũa~-1.0
+trải qua~1.0
+trấn an~1.0
+trấn áp~-2.0
+trầm lặng~-1.0
+trầm trọng~-2.0
+trầm trọng thêm~-2.0
+trầm tĩnh~2.0
+trần~-1.0
+trần thế~1.0
+trần truồng~-2.0
+trần trụi~-2.0
+trần tục~-3.0
+trầy da~-2.0
+trắng bệch~-1.0
+trẻ~2.0
+trẻ con~-3.0
+trễ~-1.0
+trịnh trọng~1.0
+trọng yếu~1.0
+trọng đại~4.0
+trốn~-1.0
+trốn tránh~-2.0
+trốn trại~-3.0
+trốn việc~-2.0
+trống~-2.0
+trống không~-4.0
+trống rỗng~-1.0
+trội~-1.0
+trội hơn~3.0
+trộm~-2.0
+trớ trêu~-1.0
+trời ảm đạm~-2.0
+trở ngại~-3.0
+trở nên nhanh nhẹn~1.0
+trở nên nhạt nhẽo~-4.0
+trục trặc~-1.0
+trục xuất~-2.0
+trụy lạc~-3.0
+trứ danh~3.0
+trừng phạt~-2.0
+trừng trị~-1.0
+trữ tình~3.0
+trực giác~3.0
+tu sửa~1.0
+tung hô~2.0
+tuyên bố bãi ước~-3.0
+tuyên bố là con hoang~-3.0
+tuyên dương~3.0
+tuyên truyền~3.0
+tuyệt diệu~5.0
+tuyệt hảo~4.0
+tuyệt trần~5.0
+tuyệt vọn~-2.0
+tuyệt vọng~-3.0
+tuyệt vời~5.0
+tuyệt đỉnh~2.0
+tuân theo~-1.0
+tuân theo pháp luật~1.0
+tuân thủ~1.0
+tuôn ra~1.0
+tà~-2.0
+tà dâm~-4.0
+tài~2.0
+tài ba~3.0
+tài cao~4.0
+tài giỏi~3.0
+tài hùng biện~2.0
+tài năng~3.0
+tài sản~3.0
+tài trí~3.0
+tài tình~2.0
+tài tử~2.0
+tài xoay xở~3.0
+tàm tạm~1.0
+tàn bạo~-3.0
+tàn nhẫn~-3.0
+tàn phá~-4.0
+tàn sát~-3.0
+tàn tích~-3.0
+tàn tật~-1.0
+tàn ác~-2.0
+tàn ác quá mức~-1.0
+tàn úa~-2.0
+tào lao~-4.0
+tàu chìm~-3.0
+tàu khu trục~2.0
+tác động~1.0
+tách rời~-1.0
+tái hợp~2.0
+tái mét~-5.0
+tái nhợt~-1.0
+tái phạm~-2.0
+tái sinh~3.0
+tán dương~2.0
+tán thành~2.0
+tán thưởng~3.0
+tán tụng~2.0
+táo bạo~3.0
+tát vào~-2.0
+tâm huyết~4.0
+tâm linh~1.0
+tâm lý~-3.0
+tâm thần~-4.0
+tâm thần phân liệt~-3.0
+tân trang~1.0
+tâng bốc~-4.0
+tê~-2.0
+tê liệt~-1.0
+tên khốn~-3.0
+tình bạn~2.0
+tình bằng hữu~1.0
+tình cảm~3.0
+tình cảnh khó khăn~-1.0
+tình cờ~1.0
+tình dục~-1.0
+tình huynh đệ~1.0
+tình người~2.0
+tình trạng bất ổn~-1.0
+tình trạng chậm chễ~-2.0
+tình trạng hổn loạn~-3.0
+tình trạng khó khăn~-1.0
+tình trạng khó xử~-1.0
+tình trạng lo âu~-1.0
+tình trạng lộn xộn~-2.0
+tình trạng sa sút~-2.0
+tình trạng trì trệ~-2.0
+tình yêu~3.0
+tích cực~2.0
+tích hợp~2.0
+tích trữ~1.0
+tín dụng~1.0
+tín nhiệm~1.0
+tính bần tiện~-2.0
+tính bẩn thỉu~-3.0
+tính cần thiết~1.0
+tính cởi mở~3.0
+tính dễ gây ác cảm~-2.0
+tính gan dạ~3.0
+tính hiểm độc~-2.0
+tính hợp pháp~1.0
+tính hữu dụng~1.0
+tính khó ưa~-2.0
+tính khôi hài~1.0
+tính không mến khách~-2.0
+tính không thể sai được~1.0
+tính không tương phản~-2.0
+tính kiêu ngạo~-3.0
+tính kỳ quặc~-1.0
+tính liên tục~2.0
+tính mọi rợ~-3.0
+tính ngay thẳng~2.0
+tính nghệ thuật~1.0
+tính rụt rè~-2.0
+tính sai~-2.0
+tính sáng tạo~3.0
+tính tao nhã~2.0
+tính thiếu kinh nghiệm~-1.0
+tính thuỳ mị~1.0
+tính thô lỗ~-2.0
+tính trẻ con~-2.0
+tính táo bạo~3.0
+tính tự cao tự đại~-2.0
+tính vui vẻ~3.0
+tính xấu xa~-2.0
+tính ích kỷ~-3.0
+tính độc hại~-2.0
+tò mò~1.0
+tóc rối bù~-4.0
+tô điểm~1.0
+tôn giáo~-1.0
+tôn kính~1.0
+tôn thờ~-1.0
+tôn trọng~3.0
+tù nhân~1.0
+tùy chọn~1.0
+tùy tiện~-2.0
+túng quẫn~-2.0
+túng thiếu~-1.0
+tăng~2.0
+tăng cường~2.0
+tăng lên~2.0
+tăng động~-2.0
+tơi vụn~-1.0
+tư cách~2.0
+tư vấn~1.0
+tươi~2.0
+tươi sáng~3.0
+tươi tắn~2.0
+tươi tốt~3.0
+tươm tất~1.0
+tương thích~1.0
+tước đoạt~-2.0
+tưởng nhớ~2.0
+tưởng tượng~3.0
+tạm biệt~-1.0
+tạo điều kiện~2.0
+tả tơi~-1.0
+tấn công~2.0
+tầm nhìn xa~2.0
+tầm quan trọng~2.0
+tầm thường~-1.0
+tầm thường hoá~-2.0
+tầm trung~-1.0
+tầm vóc~2.0
+tẩy não~-3.0
+tẩy sạch~1.0
+tận thế~-5.0
+tận tâm~1.0
+tập hợp~1.0
+tật xấu~-3.0
+tắt thở~-3.0
+tặng~1.0
+tẻ nhạt~-2.0
+tế nhị~3.0
+tệ~-4.0
+tệ bạc~-4.0
+tệ hơn~-3.0
+tệ nhất~-5.0
+tỉ mỉ~1.0
+tỉnh lẻ~-1.0
+tỉnh táo~1.0
+tịch thu~-1.0
+tọc mạch~-2.0
+tỏa ra~2.0
+tố cáo~-2.0
+tố giác~-3.0
+tốc độ theo yêu cầu~3.0
+tối~-1.0
+tối cao~4.0
+tối dạ~-2.0
+tối hậu thư~-1.0
+tối nghĩa~-1.0
+tối thiểu~-1.0
+tối tăm~-3.0
+tối đa~1.0
+tối ưu~2.0
+tối ưu nhất~4.0
+tốn kém~-2.0
+tống giam~-1.0
+tống khứ~-1.0
+tống tiền~-3.0
+tốt~3.0
+tốt bụng~2.0
+tốt hơn~3.0
+tốt lành~2.0
+tốt nghiệp~1.0
+tốt nhất~5.0
+tốt số~4.0
+tốt đẹp~4.0
+tồi~-2.0
+tồi tàn~-5.0
+tồi tệ~-5.0
+tồn tại~1.0
+tổn thương tinh thần~-3.0
+tổn thất~-2.0
+tổng hợp~1.0
+tội~-2.0
+tội giết người~-1.0
+tội lỗi~-2.0
+tội nghiệp~-2.0
+tội phạm~-1.0
+tội ác~-2.0
+tột bậc~4.0
+tột bật~4.0
+tột cùng~-1.0
+tột đỉnh~4.0
+tờ báo khổ nhỏ~-4.0
+tục tiểu~-4.0
+tục tĩu~-4.0
+tụt hậu~-2.0
+tức giận~-2.0
+tức điên~-4.0
+từ bi~4.0
+từ bỏ~-2.0
+từ chối~-3.0
+từ thiện~1.0
+từ xa~-1.0
+từng bước~1.0
+tử tế~2.0
+tự cao~-1.0
+tự cao tự đại~-3.0
+tự cho mình là đúng~-2.0
+tự cắt xén~-3.0
+tự do~3.0
+tự gây ra~-2.0
+tự hào~2.0
+tự hận thù~-3.0
+tự hủy hoại~-2.0
+tự kiêu~-3.0
+tự làm~1.0
+tự mãn~-2.0
+tự mô tả~-1.0
+tự nguyện~1.0
+tự nhiên~1.0
+tự phong~-1.0
+tự phụ~-2.0
+tự phục vụ~-2.0
+tự ti~-1.0
+tự tin~2.0
+tự trọng~1.0
+tự túc~2.0
+tự đánh bại~-2.0
+tự động~1.0
+tự động lấy nét~1.0
+u mê~-1.0
+u sầu~-2.0
+u ám~-2.0
+ung dung~2.0
+ung thư~-3.0
+uy nghi~4.0
+uy thế~2.0
+uy tín~3.0
+uyên bác~1.0
+uyên thâm~4.0
+uyển chuyển~1.0
+uất ức~-2.0
+uể oải~-1.0
+uốn khúc~-2.0
+uống say~-2.0
+uỷ mị~-1.0
+va chạm~-1.0
+va mạnh~-2.0
+va nhau~-1.0
+vi phạm~-1.0
+vi rút~-3.0
+vi trùng~-2.0
+vinh dự~2.0
+vinh quang~3.0
+viêm~-1.0
+viết một mạch~-4.0
+viết tay~1.0
+việc chán ngắt~-3.0
+việc vặt~-3.0
+viện cớ~-1.0
+viện trợ~2.0
+vong ân~-2.0
+vu khống~-2.0
+vu oan~-2.0
+vu vơ~-1.0
+vui~2.0
+vui chơi~2.0
+vui chơi giải trí~1.0
+vui lên~1.0
+vui lòng~3.0
+vui mừng~4.0
+vui nhộn~1.0
+vui sướng~4.0
+vui tính~3.0
+vui tươi~3.0
+vui vẻ~4.0
+vui đùa~3.0
+vuông vức~1.0
+vuốt ve~2.0
+vâng lời~1.0
+vô bổ~-3.0
+vô cùng to lớn~5.0
+vô căn cứ~-2.0
+vô cảm~-2.0
+vô duyên~-1.0
+vô dụng~-4.0
+vô gia cư~-1.0
+vô giá~5.0
+vô giá trị~-4.0
+vô hiệu~-2.0
+vô hiệu hoá~-1.0
+vô hình~-1.0
+vô hại~1.0
+vô hồn~-1.0
+vô liêm sỉ~-3.0
+vô lý~-3.0
+vô lượng~1.0
+vô lễ~-1.0
+vô nghĩa~-3.0
+vô nhân đạo~-3.0
+vô song~5.0
+vô sỉ~-2.0
+vô tri~-3.0
+vô trách nhiệm~-2.0
+vô tình~-2.0
+vô tư~2.0
+vô tư lự~1.0
+vô tận~1.0
+vô tổ chức~-2.0
+vô tội~2.0
+vô vị~-1.0
+vô vọng~-2.0
+vô ích~-2.0
+vô ý~-1.0
+vô đich~4.0
+vô đạo đức~-3.0
+vô địch~3.0
+vô ơn~-2.0
+vông ân~-2.0
+vùi dập~-1.0
+văn hoa~2.0
+văn hóa~1.0
+văn minh~1.0
+vĩnh viễn~2.0
+vũ lực~-1.0
+vũ phu~-1.0
+vướng vào~-1.0
+vướng víu~-2.0
+vượt lên~3.0
+vượt qua~1.0
+vượt quá~-1.0
+vượt trội~3.0
+vạch trần~-1.0
+vạm vỡ~3.0
+vạn năng~3.0
+vấn đề~-2.0
+vấp ngã~-1.0
+vất vả~-3.0
+vấy bẩn~-2.0
+vận dụng~2.0
+vận hành~1.0
+vận may~3.0
+vận động~1.0
+vật chất~1.0
+vật có ích~1.0
+vật kỳ quái~-1.0
+vật lộn~-1.0
+vật thờ~-2.0
+vật vô giá trị~-3.0
+vắn tắt~1.0
+vắng mặt~-1.0
+vắng vẻ~-2.0
+vặn vẹo~-1.0
+vẻ duyên dáng~3.0
+vẻ gớm guốc~-4.0
+vẻ kiêu căng~-1.0
+vẻ rực rỡ~-1.0
+vẻ tao nhã~1.0
+vẻ uy nghi~3.0
+vẻ vang~5.0
+vẻ đẹp~3.0
+vẽ biếm hoạ~-1.0
+vết bẩn~-2.0
+vết lõm~-1.0
+vết nhơ~-2.0
+vết nứt~-1.0
+vết sẹo~-2.0
+vết thương~-2.0
+về kinh tế~1.0
+về mặt lịch sử~1.0
+vệ sinh an toàn~3.0
+vị chát~-2.0
+vị tha~4.0
+vị thành niên~-2.0
+vồ lấy~-1.0
+vội vàng~-2.0
+vớ vẩn~-2.0
+với giá rẻ~1.0
+với vẻ đe dọa~-3.0
+vờ vĩnh~-4.0
+vỡ~-2.0
+vỡ mộng~-3.0
+vỡ nợ~-1.0
+vụng~-2.0
+vụng về~-2.0
+vứt bỏ~-2.0
+vứt xó~-2.0
+vừa khô~-3.0
+vừa vặn~4.0
+vững~2.0
+vững chắc~1.0
+vững tin~1.0
+vững vàng~1.0
+xa~-1.0
+xa cách~-2.0
+xa hoa~3.0
+xa lánh~-2.0
+xa rời~-1.0
+xa xôi~-1.0
+xanh tươi~1.0
+xin lỗi~-1.0
+xinh~2.0
+xinh xắn~2.0
+xinh đẹp~2.0
+xiêu vẹo~-3.0
+xoa dịu~1.0
+xoàng~-2.0
+xoá sạch~-2.0
+xoá sổ~-3.0
+xoắn~-3.0
+xu nịnh~1.0
+xua chế~-2.0
+xua đi~-2.0
+xua đuổi~-2.0
+xung khắc~-2.0
+xung đột~-2.0
+xuyên tạc~-2.0
+xuất chúng~5.0
+xuất sắc~5.0
+xuống số~-1.0
+xàm~-1.0
+xàm xí~-1.0
+xá tội~1.0
+xác nhận~2.0
+xác thực~1.0
+xác đáng~3.0
+xác định~1.0
+xám xịt~-1.0
+xáo trộn~-1.0
+xâm lược~-3.0
+xâm lấn~-2.0
+xâm nhập~-1.0
+xâm nhập vào~-1.0
+xâm phạm~-2.0
+xây dựng~1.0
+xé toạc ra~-1.0
+xì hơi~-1.0
+xóa~-1.0
+xói mòn~-2.0
+xót~-1.0
+xô đẩy~-2.0
+xôn xao~-2.0
+xông xáo~3.0
+xù xì~-3.0
+xúc phạm~-3.0
+xúc phạm thánh vật~-3.0
+xúc phạm thần thánh~-4.0
+xúc động~2.0
+xúi~-1.0
+xúi dục~-1.0
+xúi giục~-1.0
+xơ xác~-3.0
+xương đầu~-3.0
+xạo~-1.0
+xảo quyệt~-4.0
+xấc láo~-3.0
+xấc xược~-3.0
+xấu~-3.0
+xấu hổ~-2.0
+xấu số~-2.0
+xấu xa~-5.0
+xấu xí~-5.0
+xấu đau xấu đớn~-5.0
+xấu đi~-3.0
+xếp hàng~-3.0
+xỉ vả~-4.0
+xỉu~-2.0
+xứng~1.0
+xứng đáng~2.0
+xử trước~-1.0
+yên bình~2.0
+yên lặng~1.0
+yên tâm~2.0
+yên tĩnh~4.0
+yên ổn~4.0
+yêu~3.0
+yêu kiều~4.0
+yêu mến~3.0
+yêu nước~1.0
+yêu quái~-3.0
+yêu thích~3.0
+yêu thương~3.0
+yêu tinh~-3.0
+yếu~-2.0
+yếu kém~-2.0
+yếu đuối~-2.0
+yếu ớt~-1.0
+ác~-2.0
+ác cảm~-2.0
+ác liệt~-2.0
+ác mộng~-3.0
+ác nghiệt~-4.0
+ác tâm~-3.0
+ác tính~-3.0
+ác độc~-4.0
+ách kìm kẹp~-2.0
+ái mộ~2.0
+ám sát~-2.0
+ám ảnh~-2.0
+ánh hào quang~3.0
+áp bức~-3.0
+áp lực~-1.0
+áp đảo~-1.0
+áp đặt~-1.0
+âm mưu~-2.0
+âm mưu phụ~-2.0
+âm nhạc~3.0
+âm thầm~1.0
+âm u~-1.0
+âm đạo~-3.0
+ân cần~3.0
+ân hận~1.0
+âu yếm~2.0
+ép buộc~-2.0
+êm dịu~1.0
+êm tai~3.0
+êm ái~3.0
+êm đềm~1.0
+ích kỷ~-3.0
+ích lợi~2.0
+ít biết~-1.0
+ít nói~-1.0
+ít tốn kém~1.0
+óc sáng tạo~3.0
+óc tưởng tượng~3.0
+ói mửa~-3.0
+ô nhiễm~-2.0
+ô nhục~-2.0
+ô uế~-2.0
+ôi~-5.0
+ôm hôn~2.0
+ôn hoà~1.0
+ôn tồn~-2.0
+ùn tắc~-2.0
+ý nghĩa~2.0
+ăn bám~-3.0
+ăn cướp~-2.0
+ăn cắp~-2.0
+ăn cắp ý~-3.0
+ăn hết~-3.0
+ăn khớp~2.0
+ăn mòn~-3.0
+ăn mặc đơn sơ~-2.0
+ăn nói sắc sảo~4.0
+ăn năn~1.0
+ăn trộm~-3.0
+đa chiều~2.0
+đa cảm~2.0
+đa dạng~1.0
+đa nghi~-2.0
+đa nhiệm~1.0
+đa năng~3.0
+đa nền tảng~2.0
+đa tác vụ~3.0
+đam mê~2.0
+đau~-1.0
+đau buồn~-3.0
+đau dữ dội~-2.0
+đau khổ~-4.0
+đau lòng~-2.0
+đau nhức~-2.0
+đau quặn bụng~-2.0
+đau xót~-2.0
+đau yếu~-2.0
+đau đầu~-2.0
+đau đớn~-3.0
+đe doạ~-1.0
+đe dọa~-2.0
+đi chệch~-1.0
+đi cà kheo~-1.0
+đi khập khểnh~-1.0
+đi khệnh khạng~-1.0
+đi lên chống lại~-1.0
+đi lạc~-1.0
+đi ngược lại~-1.0
+đi ra~-2.0
+đi tiểu~-2.0
+đi tập tễnh~-1.0
+đi với~1.0
+điên~-3.0
+điên dại~-3.0
+điên khùng~-2.0
+điên rồ~-2.0
+điên tiết~-3.0
+điêu~-1.0
+điếc tai~-1.0
+điềm tĩnh~2.0
+điềm xấu~-3.0
+điềm đạm~2.0
+điều bất tiện~-1.0
+điều chắc chắn~2.0
+điều chỉnh được~2.0
+điều cấm kỵ~-1.0
+điều ghê tởm~-4.0
+điều hoà không khí~1.0
+điều hòa~2.0
+điều kiện hạn chế~-1.0
+điều làm say mê~3.0
+điều lầm lỗi~-1.0
+điều mê tín~-2.0
+điều phiền muộn~-2.0
+điều thú vị~3.0
+điều tiết~1.0
+điều trái với đạo lý~-2.0
+điều vớ vẩn~-1.0
+điều đình~1.0
+điều độ~1.0
+điểm nổi bật~2.0
+điểm yếu~-2.0
+điện tử~2.0
+đoan chính~3.0
+đoan trang~2.0
+đoán trước~1.0
+đoạn tuyệt~-2.0
+đoạt giải thường~5.0
+đoạt giải thưởng~5.0
+đu đưa~4.0
+đuổi~-2.0
+đàm luận~1.0
+đàn hồi~2.0
+đàn áp~-1.0
+đàng hoàng~2.0
+đào ngũ~-2.0
+đày~-2.0
+đá ra~-1.0
+đáng ao ước~4.0
+đáng buồn~-2.0
+đáng báo động~-2.0
+đáng ca ngợi~3.0
+đáng ghét~-5.0
+đáng giá~2.0
+đáng khen~3.0
+đáng khen ngợi~3.0
+đáng khinh~-5.0
+đáng khiển trách~-2.0
+đáng khâm phục~4.0
+đáng kinh sợ~-5.0
+đáng kính~2.0
+đáng kính trọng~2.0
+đáng lo~-2.0
+đáng lo ngại~-3.0
+đáng làm~3.0
+đáng lưu ý~1.0
+đáng mến~3.0
+đáng ngưỡng mộ~4.0
+đáng ngạc nhiên~3.0
+đáng ngại~-3.0
+đáng ngờ~-1.0
+đáng nhớ~3.0
+đáng nể~1.0
+đáng phục~4.0
+đáng sống~1.0
+đáng sợ~-3.0
+đáng thèm muốn~4.0
+đáng thương~-3.0
+đáng tin~1.0
+đáng tin cậy~2.0
+đáng tiếc~-2.0
+đáng trách~-3.0
+đáng tuyên dương~3.0
+đáng tởm~-3.0
+đáng yêu~5.0
+đáng để ý~2.0
+đáng đọc~3.0
+đánh~-3.0
+đánh bạc~-1.0
+đánh bại~1.0
+đánh giá~2.0
+đánh giá cao~3.0
+đánh lừa~-2.0
+đánh quật~-3.0
+đánh thuế~-1.0
+đánh trúng~2.0
+đánh vào đít~-2.0
+đánh vần~1.0
+đánh đập~-2.0
+đánh đổ~-3.0
+đáp lại~1.0
+đáp ứng~1.0
+đã tinh chế~4.0
+đã đẹp~2.0
+đãi~2.0
+đèn hiệu~1.0
+đê hèn~-4.0
+đê tiện~-2.0
+đích đáng~1.0
+đít~-1.0
+đói~-1.0
+đóng băng~-2.0
+đóng vai ác~-1.0
+đông nghịt~-2.0
+đùa~1.0
+đùa giỡn~1.0
+đúng chỗ~1.0
+đúng lúc~2.0
+đúng mốt~3.0
+đúng mức~1.0
+đúng mực~1.0
+đúng sự thật~2.0
+đúng đắn~2.0
+đút lót~-2.0
+đăng quang~3.0
+đơn giản~2.0
+đơn giản hóa~1.0
+đơn giản đi~-1.0
+đơn điệu~-3.0
+đưa lên với~-1.0
+đương thời~1.0
+đường cùng~-1.0
+được chào mừng~3.0
+được cải tiến~2.0
+được hoan nghênh~3.0
+được lòng mọi người~2.0
+được nghiên cứu~4.0
+được nuông chiều~-4.0
+được nâng cao~2.0
+được phép~1.0
+được rồi~1.0
+được sử dụng nhiều~1.0
+được yêu mến~4.0
+được yêu thích~4.0
+được đào tạo~4.0
+được đón nhận~2.0
+được ưa chuộng~4.0
+đại hồng thủy~-4.0
+đại tài~4.0
+đạo đức~1.0
+đạo đức giả~-3.0
+đạt~1.0
+đả kích~-2.0
+đảm bảo~1.0
+đảng phái~-2.0
+đảo lộn~-2.0
+đất bùn~-3.0
+đấu thủ nhà nghề~1.0
+đấu tranh~2.0
+đần độn~-3.0
+đầu hàng~-3.0
+đầu tiên~1.0
+đầy hy vọng~2.0
+đầy hận thù~-4.0
+đầy hứa hẹn~2.0
+đầy màu sắc~2.0
+đầy mây~-1.0
+đầy nhiệt huyết~2.0
+đầy năng lượng~3.0
+đầy sinh lực~3.0
+đầy sức sống~2.0
+đầy ý nghĩa~3.0
+đầy đủ dịch vụ~5.0
+đầy đủ kích thước~2.0
+đầy đủ tính năng~3.0
+đẩy lùi~2.0
+đẫm máu~-2.0
+đập~-2.0
+đập gãy~-2.0
+đập tan~-2.0
+đậu~2.0
+đắc thắng~3.0
+đắc địa~4.0
+đắm~-2.0
+đắm mình trong~-2.0
+đắng~-2.0
+đắt~-1.0
+đắt tiền~-1.0
+đặc sắc~2.0
+đặt cách nhau~2.0
+đẹp~4.0
+đẹp mắt~5.0
+đẹp say đắm~2.0
+đẹp trai~4.0
+đẻ trứng~-2.0
+đến phát bực~-2.0
+đến với nhau~2.0
+đề cao~1.0
+đền bù~1.0
+đều đặn~1.0
+để phân biệt~1.0
+để trắng~-1.0
+đỉnh~1.0
+đỉnh cao~4.0
+địa ngục~-3.0
+định kiến~-2.0
+đọc được~1.0
+đố kỵ~-1.0
+đối chất~-1.0
+đối số~-1.0
+đối tác~1.0
+đối xử tốt~1.0
+đối đầu~-1.0
+đối địch~-1.0
+đống rác~-2.0
+đốt cháy~-3.0
+đồ không cần thiết~-1.0
+đồi bại~-3.0
+đồng bóng~-2.0
+đồng bộ~3.0
+đồng cảm~2.0
+đồng lõa~-2.0
+đồng quê~2.0
+đồng tình~2.0
+đồng ý~1.0
+đổ máu~-2.0
+đổ nát~-2.0
+đổi mới~3.0
+độ bền~2.0
+độ lượng~1.0
+độ lệch~-1.0
+độ nhám~-2.0
+độ phân giải cao~3.0
+độ sắc nét~1.0
+độc~-5.0
+độc hại~-4.0
+độc lập~1.0
+độc nhất~3.0
+độc quyền~5.0
+độc tài~-3.0
+độc ác~-4.0
+độc đoán~-2.0
+độc đáo~2.0
+độc địa~-5.0
+động lực~1.0
+động thổ~3.0
+động viên~2.0
+động vật ăn thịt~-1.0
+đột biến~-2.0
+đột kích~-3.0
+đờ đẫn~-2.0
+đời thực~1.0
+đời đời~2.0
+đụng nhau~-1.0
+đủ~1.0
+đủ dùng~1.0
+đủ lông đủ cánh~2.0
+đức giáo chủ~3.0
+đức hạnh~2.0
+đức tính~2.0
+đứng không vững~-1.0
+đứng đầu~2.0
+đứng đắn~1.0
+ưa chuộng~4.0
+ưa thích~2.0
+ưu~2.0
+ưu thế~2.0
+ưu tú~5.0
+ưu việt~4.0
+ưu đãi~1.0
+ương bướng~-3.0
+ương ngạnh~-1.0
+ướt át~-3.0
+ảm đạm~-4.0
+ảnh hưởng~1.0
+ảo tưởng~-2.0
+ấm~1.0
+ấm cúng~3.0
+ấm lòng~3.0
+ấm áp~3.0
+ấn tượng~3.0
+ấp trứng~-1.0
+ấp ủ~1.0
+ầm ĩ~-2.0
+ẩm ướt~-2.0
+ẩn dật~-4.0
+ẩu~-1.0
+ẻo lả~-1.0
+ỉa~-3.0
+ốm~-1.0
+ốm yếu~-1.0
+ồn ào~-2.0
+ổn định~1.0
+ở sau~-3.0
+ợ~-1.0
+ủ rũ~-2.0
+ủng hộ~1.0
+ủy quyền~1.0
+ứ đọng~-2.0
+ức chế~-1.0

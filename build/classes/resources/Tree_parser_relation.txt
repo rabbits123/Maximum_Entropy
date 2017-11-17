@@ -1,0 +1,10 @@
+nmod
+vmod
+adv
+amod
+conj
+coord
+dob
+sub
+coord
+mnr

@@ -1,0 +1,183 @@
+ít nhất~-3
+không nơi nào gần~-3
+thấp nhất~-3
+ra khỏi~-2
+thấp~-2
+vài~-2
+hầu như~-1.5
+ít~-1.5
+ít hơn~-1.5
+khó~-1.5
+khó để~-1.5
+khó khăn~-1.5
+khó khăn để~-1.5
+không phải là~-1.5
+không quá~-1.5
+thấp hơn~-1.5
+vừa mới~-1.5
+không phải tất cả mà~-1.2
+chút ít~-0.9
+nhẹ nhất~-0.9
+chỉ~-0.5
+hơi~-0.5
+hơn~-0.5
+không có ý nghĩa~-0.5
+không quan trọng~-0.5
+một chút~-0.5
+một chút của một~-0.5
+một chút ít~-0.5
+nhỏ nhất~-0.5
+ở tất cả các~-0.5
+dữ dội~-0.4
+chừng mực nào~-0.3
+loại~-0.3
+một đôi~-0.3
+một ít~-0.3
+một phần~-0.3
+một vài~-0.3
+nhẹ~-0.3
+nhỏ~-0.3
+ôn hòa~-0.3
+thứ yếu~-0.3
+tương đối~-0.3
+vừa phải~-0.3
+cho rằng~-0.2
+chủ yếu~-0.2
+hầu hết~-0.2
+khá~-0.2
+một mức độ~-0.2
+một mức độ nhất định~-0.2
+một số~-0.2
+một số tiền nhất định của~-0.2
+nhỏ hơn~-0.2
+đúng hơn~-0.1
+cao hơn~0.1
+đáng chú ý~0.1
+hoàn hảo~0.1
+ngay~0.1
+phù hợp~0.1
+thích hợp~0.1
+trực tiếp~0.1
+cao~0.2
+chắc~0.2
+chắc chắn~0.2
+chính~0.2
+đáng cân nhắc~0.2
+đáng kể~0.2
+đáng quan tâm~0.2
+đầy~0.2
+định xác~0.2
+đúng~0.2
+khác nhau~0.2
+liên tục~0.2
+lớn hơn~0.2
+minh bạch~0.2
+nhiều~0.2
+phần lớn~0.2
+rạch ròi~0.2
+rất~0.2
+riêng~0.2
+rõ ràng~0.2
+rõ ràng hơn~0.2
+sâu sắc hơn~0.2
+tàn khốc~0.2
+thực~0.2
+thực sự~0.2
+thường xuyên~0.2
+tinh khiết~0.2
+bất thường~0.3
+chùm~0.3
+đặc biệt~0.3
+đáng kinh ngạc~0.3
+đôi~0.3
+đông~0.3
+đột ngột~0.3
+khốn kiếp~0.3
+lớn~0.3
+mạnh~0.3
+mãnh liệt~0.3
+mạnh mẽ~0.3
+một bó~0.3
+nghiêm trọng~0.3
+nổi bật~0.3
+phần đông~0.3
+quan trọng~0.3
+quyết định~0.3
+rành mạch~0.3
+rất nhiều~0.3
+riêng biệt~0.3
+sâu~0.3
+thẳng thắn~0.3
+thẳng thừng~0.3
+thêm~0.3
+tinh tuý~0.3
+trọn vẹn~0.3
+trong sáng~0.3
+tuyệt~0.3
+bao la~0.4
+bất tận~0.4
+cực kỳ~0.4
+dào dồi~0.4
+đầy đủ~0.4
+điên cuồng~0.4
+đường~0.4
+hoàn thành~0.4
+khác thường~0.4
+khêu gợi~0.4
+khó tin~0.4
+không nghi ngờ~0.4
+không ngờ~0.4
+không ối rối~0.4
+khủng khiếp~0.4
+kỳ quặc~0.4
+một ví dụ~0.4
+như thế~0.4
+như vậy~0.4
+phổ biến~0.4
+quá chừng~0.4
+rất đỗi~0.4
+rất lớn~0.4
+sâu sắc~0.4
+sâu xa~0.4
+say đắm~0.4
+siêu~0.4
+theo cấp số nhân~0.4
+to lớn~0.4
+triệt để~0.4
+vang dội~0.4
+vô cùng~0.4
+vô hạn~0.4
+vô vàn~0.4
+chết tiệt~0.45
+cao nhất~0.5
+đồ sộ~0.5
+đột xuất~0.5
+hèn hạ~0.5
+hoàn toàn~0.5
+hoành tráng~0.5
+không chỉ~0.5
+không đơn giản~0.5
+không đúng~0.5
+khổng lồ~0.5
+không thể tin được~0.5
+không thể tưởng tượng~0.5
+lớn nhất~0.5
+một lượng lớn~0.5
+một rất nhiều~0.5
+một số tiền rất lớn của~0.5
+một tấn~0.5
+ngoạn mục~0.5
+nhiều hơn~0.5
+phi thường~0.5
+rõ ràng nhất~0.5
+sâu nhất~0.5
+số lượng lớn~0.5
+tấn~0.5
+thậm chí nhiều hơn~0.5
+toàn bộ~0.5
+tổng số~0.5
+tuyệt đối~0.5
+vĩ đại~0.5
+vô số~0.5
+hết sức~1
+nhất~1
