@@ -36,7 +36,7 @@ public class Test {
             Logger.getLogger(Test.class.getName()).log(Level.SEVERE, null, ex);
         }
         
-        MaximunEntropy maxent = new MaximunEntropy();
+        MaximumEntropy maxent = new MaximumEntropy();
         maxent.trainingData2(stringList);
         System.out.println(maxent.predictSentence("Leptospirosis"));
     }

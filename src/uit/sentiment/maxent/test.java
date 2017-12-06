@@ -5,14 +5,24 @@
  */
 package uit.sentiment.maxent;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  *
  * @author Phu
  */
 public class test {
     public static void main(String[] args) {
-        MaximunEntropy maxent = new MaximunEntropy();
-        String []arr = {"1","2","3","4"};
+        MaximumEntropy maxent = new MaximumEntropy();
+        
+        List<String> test = new ArrayList<>();
+        test.add("1\ta");
+        test.add("2\tb");
+        test.add("3\tc");
+        test.add("4\td");
+        test.add("5\te");
+        String []arr = (String[]) test.toArray(new String[0]);
         maxent.trainingData(arr);
         System.out.println(maxent.predictSentence("1"));
 

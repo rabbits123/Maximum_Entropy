@@ -33,8 +33,8 @@ public class ReadTextFile {
             String line =" ";
             while (line != null) {
                 line = br.readLine();
-                System.out.println(line);
                 text.add(line);
+                System.out.println(line);
             }
         } catch (FileNotFoundException ex) {
             Logger.getLogger(Test.class.getName()).log(Level.SEVERE, null, ex);
@@ -55,14 +55,14 @@ public class ReadTextFile {
         BufferedReader br = null;
         try {
             br = new BufferedReader(new FileReader(path));
-            int i = 2;
-            String line = br.readLine();
+            int i = 1;
+            String line = " ";
             while (line != null) {
                 line = br.readLine();
                 if (i >= start && i <= end) {
                     text.add(line);
+                    
                 }
-                System.out.println(line);
                 if (i == end) {
                     break;
                 }
@@ -87,8 +87,8 @@ public class ReadTextFile {
         BufferedReader br = null;
         try {
             br = new BufferedReader(new FileReader(path));
-            int i = 2;
-            String line = br.readLine();
+            int i = 1;
+            String line = " ";
             while (line != null) {
                 line = br.readLine();
                 if (i >= startTrain && i <= startTest || i >= endTest && i <= endTrain) {
@@ -121,15 +121,13 @@ public class ReadTextFile {
 
         try {
             br = new BufferedReader(new FileReader(file));
-            String line = br.readLine();
-            int i = 2;
-            int result = 0;
-            String sentence = "";
+            String line = " ";
+            int i = 1;
             String[] parseText;
             while (line != null) {
                 line = br.readLine();
                 if (i >= start && i <= end) {
-                    parseText = line.split("\\t");
+                    parseText = line.split("\t");
                     hash.put(parseText[1], Integer.parseInt(parseText[0]));
                 }
                 if (i > end) {
@@ -159,14 +157,14 @@ public class ReadTextFile {
 
         try {
             br = new BufferedReader(new FileReader(file));
-            String line = br.readLine();
-            int i = 2;
-            String sentence = "";
+            String line = " ";
+            int i = 1;
+            String sentence = " ";
             String[] parseText;
             while (line != null) {
                 line = br.readLine();
                 if (i >= start && i <= end) {
-                    parseText = line.split("\\t");
+                    parseText = line.split("\t");
                     sentences.add(parseText[1]);
                 }
                 if (i > end) {
@@ -193,7 +191,7 @@ public class ReadTextFile {
 
         // Map.Entry returns a collection-view wof the map, whose elements are of this class
         // Returns a Set that contains the entries in the map.
-        readTextFile(2,20,"src/resources/data/corpus_full.txt");
+        readTextFile(1,5,10,20,"src/resources/data/corpus_full.txt");
         
     }
 }
