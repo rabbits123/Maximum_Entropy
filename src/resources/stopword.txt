@@ -1,4 +1,4 @@
-bị
+﻿bị
 bởi
 cả
 các
@@ -12,7 +12,7 @@ chứ
 chưa
 chuyện
 có
-có thể
+có_thể
 cứ
 của
 cùng
@@ -21,7 +21,7 @@ cũng
 đang
 đây
 để
-đến nỗi
+đến_nỗi
 đều
 điều
 do
@@ -37,7 +37,7 @@ lên
 lúc
 mà
 mỗi
-một cách
+một_cách
 này
 nên
 nếu

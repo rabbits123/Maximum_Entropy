@@ -1,12 +1,19 @@
 package uit.sentiment.maxent;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 import uit.sentiment.dataobject.TreeDependence;
 import uit.sentiment.dataobject.TreeNodeDependence;
 import uit.sentiment.io.ReadFileText;
+import uit.sentiment.preprocessing.Preprocessing;
 import uit.sentiment.utils.IConstant;
 
 public class FeatureDependence {
@@ -21,6 +28,10 @@ public class FeatureDependence {
     // danh sach các quan hệ dependence kết hợp với tagger
     private static Map<String, List<String>> relationDependenceTagger = ReadFileText.loadRelationAndTaggerTreeDependence(FeatureDependence.class.getResourceAsStream(IConstantMaxent.STR_PATH_DEPENDENCE_RELATION_TAGGER));
     
+    private static HashMap<String, String> hashmap = createHashMap();
+    
+    // tiền xử lý
+    private static Preprocessing pre = new Preprocessing();
     /**
      * create feature dependence cho 1 câu
      * @param sentence câu cần xét
@@ -36,8 +47,10 @@ public class FeatureDependence {
         }
         List<String> featureNames = new ArrayList<>();
         boolean isExist = false;
+        
         for (TreeDependence dependence : treeDependences) {
-            if(dependence.getSentence().trim().equals(sentence.trim())){
+            if(hashmap.get(dependence.getSentence().trim()).equals(sentence.trim())){
+                
                 isExist = true;
                 Map<Integer, List<Integer>> trees = new HashMap<>();// luu lại các node con của 1 node
                 // tìm con của các node và lưu vào tree
@@ -62,10 +75,7 @@ public class FeatureDependence {
             }
         }
         if(!isExist){
-            System.out.println(sentence);
-        }
-        for(int i =0 ; i < featureNames.size();i++){
-            System.out.println(featureNames.get(i));
+            //System.out.println(sentence);
         }
         return featureNames;
     }
@@ -89,7 +99,7 @@ public class FeatureDependence {
         List<String> featureNames = new ArrayList<>();
         boolean isExist = false;
         for (TreeDependence dependence : treeDependences) {
-            if(dependence.getSentence().trim().equals(sentence.trim())){
+            if(hashmap.get(dependence.getSentence().trim()).equals(sentence.trim())){
                 isExist = true;
                 Map<Integer, List<Integer>> trees = new HashMap<>();// luu lại các node con của 1 node
                 // tìm con của các node và lưu vào tree
@@ -118,10 +128,7 @@ public class FeatureDependence {
             }
         }
         if(!isExist){
-            System.out.println(sentence);
-        }
-        for(int i =0 ; i < featureNames.size();i++){
-            System.out.println(featureNames.get(i));
+            //System.out.println(sentence);
         }
         return featureNames;
     }
@@ -146,7 +153,7 @@ public class FeatureDependence {
         List<String> featureNames = new ArrayList<>();
         boolean isExist = false;
         for (TreeDependence dependence : treeDependences) {
-            if(dependence.getSentence().trim().equals(sentence.trim())){
+            if(hashmap.get(dependence.getSentence().trim()).equals(sentence.trim())){
                 isExist = true;
                 Map<Integer, List<Integer>> trees = new HashMap<>();// luu lại các node con của 1 node
                 // tìm con của các node và lưu vào tree
@@ -178,7 +185,7 @@ public class FeatureDependence {
             }
         }
         if(!isExist){
-            System.out.println(sentence);
+            //System.out.println(sentence);
         }
         return featureNames;
     }
@@ -275,13 +282,37 @@ public class FeatureDependence {
             return head + "_" + dependence;
         }
     }
+    
+    private static HashMap<String, String> createHashMap(){
+       HashMap<String, String> hashMap = new HashMap<String, String>();
+       
+       BufferedReader br = null;
+       BufferedReader br2 = null;
+       
+        try {
+            br = new BufferedReader(new FileReader("rawSentences.txt"));
+            br2 = new BufferedReader(new FileReader("processedSentence.txt"));
+            String key = null;
+            String value = null;
+            while(((key = br.readLine()) != null) && ((value = br2.readLine()) != null)){
+                hashMap.put(key, value);
+            }
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(FeatureDependence.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(FeatureDependence.class.getName()).log(Level.SEVERE, null, ex);
+        }
+       
+       return hashMap;
+    }
 
     public static void main(String[] args) {
-        System.out.println("buổi học cuối cùng trước đợt thi cuối kỳ chưa nói rõ về nội dung sẽ được thi");
-        createFeatureDependenceBase("buổi học cuối cùng trước đợt thi cuối kỳ chưa nói rõ về nội dung sẽ được thi","des");
-        System.out.println("========================");
-        
-        System.out.println("buổi học cuối cùng trước đợt thi cuối kỳ chưa nói rõ về nội dung sẽ được thi");
-        createFeatureDependenceRelation("buổi học cuối cùng trước đợt thi cuối kỳ chưa nói rõ về nội dung sẽ được thi","rel");
+//        List<String> list = createFeatureDependenceBase("1 chỉ thực hành chỉ còn ý nghĩa tượng trưng", null);
+//        for(String s : list){
+//            System.out.println(s);
+//        }
+
+
+        createHashMap();
     }
 }

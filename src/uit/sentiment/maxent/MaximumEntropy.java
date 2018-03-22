@@ -6,8 +6,8 @@ import edu.stanford.nlp.classify.Dataset;
 import edu.stanford.nlp.classify.GeneralDataset;
 import edu.stanford.nlp.classify.LinearClassifier;
 import edu.stanford.nlp.classify.LinearClassifierFactory;
+import static edu.stanford.nlp.dcoref.CoNLL2011DocumentReader.logger;
 import edu.stanford.nlp.io.IOUtils;
-import edu.stanford.nlp.io.RuntimeIOException;
 import edu.stanford.nlp.ling.BasicDatum;
 import edu.stanford.nlp.ling.Datum;
 import edu.stanford.nlp.process.WordShapeClassifier;
@@ -15,10 +15,9 @@ import edu.stanford.nlp.stats.Counter;
 import edu.stanford.nlp.util.Generics;
 import edu.stanford.nlp.util.Index;
 import edu.stanford.nlp.util.Pair;
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+import java.io.File;
 import java.io.IOException;
+import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -28,22 +27,18 @@ import java.util.Locale;
 import java.util.Properties;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import uit.sentiment.io.ReadTextFile;
-import vn.hus.nlp.tagger.VietnameseMaxentTagger;
 import vn.hus.nlp.tokenizer.VietTokenizer;
 import uit.sentiment.io.ReadTextFile;
-import uit.sentiment.test.Test;
 
 public class MaximumEntropy implements Serializable {
 
-    ColumnDataClassifier cdc;
-    LinearClassifier<String, String> classifier;
-    LinearClassifierFactory<String, String> factory = new LinearClassifierFactory<>();
-    VietTokenizer tokenizer = new VietTokenizer();
+    transient ColumnDataClassifier cdc;
+    public static LinearClassifier<String, String> classifier;
+    transient LinearClassifierFactory<String, String> factory = new LinearClassifierFactory<>();
+    transient VietTokenizer tokenizer = new VietTokenizer();
     //VietnameseMaxentTagger vtagger = new VietnameseMaxentTagger();;
 
-
-    boolean isDependenceBase = false;
+    boolean isDependenceBase = true;
     boolean isDependenceRelation = false;
     boolean isDependenceRelationTagger = false;
 
@@ -57,8 +52,7 @@ public class MaximumEntropy implements Serializable {
             properties.load(getClass().getResourceAsStream(IConstantMaxent.config));
             properties.setProperty("1.maxNGramLeng", "" + IConstantMaxent.NGramMaxent);
             this.cdc = new ColumnDataClassifier(properties);
-            
-            
+
         } catch (IOException ex) {
             Logger.getLogger(MaximumEntropy.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -456,10 +450,12 @@ public class MaximumEntropy implements Serializable {
          * #ddc-feature
          */
         if (isDependenceBase) {
+            //System.out.println("right" + cWord);
             Collection<String> featureNames = FeatureDependence.createFeatureDependenceBase(cWord, null);
             if (featureNames != null) {
                 for (String featureName : featureNames) {
                     ColumnDataClassifier.addFeature(featuresC, featureName, ColumnDataClassifier.DEFAULT_VALUE);
+                    //System.out.println("Feature : " + featureName);
                 }
             }
         }
@@ -490,17 +486,6 @@ public class MaximumEntropy implements Serializable {
             }
         }
 
-        /**
-         * 26/05/2017 sử dụng dictionary làm feature feature : #ddcT-feature
-         */
-        if (isDictionary) {
-            Collection<String> featureNames = FeaturesDictionary.createFeatureDictionary(cWord, null);
-            if (featureNames != null || featureNames.size() != 0) {
-                for (String featureName : featureNames) {
-                    ColumnDataClassifier.addFeature(featuresC, featureName, ColumnDataClassifier.DEFAULT_VALUE);
-                }
-            }
-        }
 
         if (flags.isRealValued || flags.logTransform || flags.logitTransform || flags.sqrtTransform) {
             ColumnDataClassifier.addFeatureValue(cWord, flags, featuresC);
@@ -594,30 +579,46 @@ public class MaximumEntropy implements Serializable {
     public void setClassifier(LinearClassifier classifier) {
         this.classifier = classifier;
     }
+    
+    public static LinearClassifier loadModel(String modelName){
+        LinearClassifier<String, String> cl = null;
+        try {
+             cl = IOUtils.readObjectFromFile(new File(modelName));
+        } catch (IOException ex) {
+            Logger.getLogger(MaximumEntropy.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (ClassNotFoundException ex) {
+            Logger.getLogger(MaximumEntropy.class.getName()).log(Level.SEVERE, null, ex);
+        }
+        return cl;
+    }
+    
+    private static void saveModel(String modelName){
+        try {
+            IOUtils.writeObjectToFile(classifier, modelName);
+        } catch (IOException ex) {
+            Logger.getLogger(MaximumEntropy.class.getName()).log(Level.SEVERE, null, ex);
+        }
+    }
+
 
     public static void main(String[] args) {
         MaximumEntropy ma = new MaximumEntropy();
-        BufferedReader br = null;
-        
+
         ReadTextFile reader = new ReadTextFile();
 
         List<String> trainingSentences = new ArrayList<>();
-        
-        trainingSentences = reader.readTextFile(0,2000, "src/resources/data/corpus_full.txt");
-        
-       
-//        String []arr = (String [])trainingSentences.toArray();
-//        Long cur = System.currentTimeMillis();
-//        ma.trainingData(arr);
-//        
-//        System.out.println("Tổng thời gian train : " + (System.currentTimeMillis() - cur)/1000);
 
-       
-        Long cur = System.currentTimeMillis();
-        ma.trainingData2(trainingSentences);
-        System.out.println("Tổng thời gian train : " + (System.currentTimeMillis() - cur)/1000);
-        System.out.println(ma.predictSentence("do gộp cả cấu_trúc dữ_liệu 1 và 2 vào trong cùng 1 học_kì nên lượng kiến_thức khá nhiều"));
+        trainingSentences = reader.readTextFile(0, 16149, "src/resources/data/corpus_sentiment.txt");
         
+        ma.trainingData2(trainingSentences);
+        ma.saveModel("src/resources/MaxentSentiment.model");
+        
+        
+//        try {
+//            IOUtils.writeObjectToFile(classifier, "test.model");
+//        } catch (IOException ex) {
+//            Logger.getLogger(MaximumEntropy.class.getName()).log(Level.SEVERE, null, ex);
+//        }
     }
 
 }

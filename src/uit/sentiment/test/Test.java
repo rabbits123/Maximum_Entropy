@@ -29,6 +29,7 @@ public class Test {
         this.numClasses = numClasses;
         this.numSentences = numSentences;
     }
+    
 
     public Test() {
 
@@ -155,7 +156,6 @@ public class Test {
             tempRows = 0;
             cols[i] = tempCols;
             tempCols = 0;
-
         }
 
         List<Double> listPre = new ArrayList<>();
@@ -202,10 +202,15 @@ public class Test {
         Measures mTotal = null, m1, m2, m3, m4, m5;
         int noPerFold = numSentences / numFolds;
         m1 = compute(computeType1(0, noPerFold));
+        System.out.println("================ Fold 1 ================ ");
         m2 = compute(computeType2(numSentences - noPerFold, noPerFold));
+        System.out.println("================ Fold 2 ================ ");
         m3 = compute(computeType3(noPerFold, noPerFold * 2));
+        System.out.println("================ Fold 3 ================ ");
         m4 = compute(computeType3(noPerFold * 2, noPerFold * 3));
+        System.out.println("================ Fold 4 ================ ");
         m5 = compute(computeType3(noPerFold * 3, noPerFold * 4));
+        System.out.println("================ Fold 5 ================ ");
 
         mTotal = computeAverage(m1, m2, m3, m4, m5);
 
@@ -215,18 +220,21 @@ public class Test {
     }
 
     public static void main(String[] args) {
-//        int [][]conf = computeType1(10,20);
-//        for(int i=0;i <conf.length;i++){
-//            for(int j=0;j<conf[i].length;j++){
-//                System.out.print(conf[i][j] + "\t");   
-//            }
-//            System.out.println("");
-//        }
-        Measures m1 = compute(computeType1(1, 3200));
-        Measures m2 = compute(computeType2(12801, 16000));
-        Measures m3 = compute(computeType3(3201, 6400));
-        Measures m4 = compute(computeType3(6401, 9600));
-        Measures m5 = compute(computeType3(9601, 12800));
+        
+        int noPerFold = numSentences / numFolds;
+        System.out.println(noPerFold);
+        
+        Measures m1 = compute(computeType1(1, noPerFold));
+        Measures m3 = compute(computeType3(noPerFold + 1, noPerFold * 2));
+        Measures m4 = compute(computeType3(noPerFold * 2 + 1 , noPerFold * 3));
+        Measures m5 = compute(computeType3(noPerFold * 3 + 1, noPerFold * 4));
+        Measures m2 = compute(computeType2(noPerFold * 4 + 1, noPerFold * 5));
+        
+//        Measures m1 = compute(computeType1(1, 3200));
+//        Measures m2 = compute(computeType2(12801, 16000));
+//        Measures m3 = compute(computeType3(3201, 6400));
+//        Measures m4 = compute(computeType3(6401, 9600));
+//        Measures m5 = compute(computeType3(9601, 12800));
 
         Measures avg = new Measures();
         avg.setAccuracy(((m1.getAccuracy()) + (m2.getAccuracy()) + (m3.getAccuracy()) + (m4.getAccuracy()) + (m5.getAccuracy())) / 5);
@@ -235,8 +243,8 @@ public class Test {
         avg.setRecall(avg(m1.getRecall(), m2.getRecall(), m3.getRecall(), m4.getRecall(), m5.getRecall()));
         avg.setF1_score(avg(m1.getF1_score(), m2.getF1_score(), m3.getF1_score(), m4.getF1_score(), m5.getF1_score()));
 
-        //Measures mavg = computeAverage(m1,m2, m3, m4, m5);
-        avg.display();
+        Measures mavg = computeAverage(m1,m2, m3, m4, m5);
+        m1.display();
 
 //        System.out.println("---------------- Fold1 ----------------");
 //        m1.display();

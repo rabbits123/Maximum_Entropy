@@ -60,8 +60,7 @@ public class ReadTextFile {
             while (line != null) {
                 line = br.readLine();
                 if (i >= start && i <= end) {
-                    text.add(line);
-                    
+                    text.add(line);  
                 }
                 if (i == end) {
                     break;
