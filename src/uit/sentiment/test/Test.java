@@ -18,7 +18,7 @@ import uit.sentiment.test.Measures;
  */
 public class Test {
 
-    private static final String path = "src/resources/data/corpus_full.txt";
+    private static final String path = "src/resources/data/corpus_topic.txt";
     private static int numFolds = 5;
     private static int numClasses = 4;
     private static int numSentences = 16000;
@@ -157,21 +157,42 @@ public class Test {
             cols[i] = tempCols;
             tempCols = 0;
         }
-
         List<Double> listPre = new ArrayList<>();
         List<Double> listRec = new ArrayList<>();
         List<Double> listF1 = new ArrayList<>();
+        
+        int []labelList = new int[confMatrix.length];
+        
+        for(int i=0; i < confMatrix.length; i++){
+            for(int j =0 ; j < confMatrix[i].length;j++){
+                labelList[i] += confMatrix[i][j];
+            }
+        }
+        
+        double tempPre = 0;
+        double tempRec = 0;
+        
         for (int i = 0; i < confMatrix.length; i++) {
             totalRightAnswer += confMatrix[i][i];
-            double pre = (double) confMatrix[i][i] / (cols[i]);
-            double rec = (double) confMatrix[i][i] / (rows[i]);
+            double rec = (double) confMatrix[i][i] / (cols[i]);
+            double pre = (double) confMatrix[i][i] / (rows[i]);
             double f1 = (2 * (pre * rec)) / (pre + rec);
+            
+            tempPre += labelList[i] *  pre;
+            tempRec += labelList[i] *  rec;
+            
             listPre.add(pre);
             listRec.add(rec);
             listF1.add(f1);
-            System.out.println(f1);
         }
         mea.setAccuracy((double) totalRightAnswer / totalAnswer);
+        double microAvgPre = tempPre/totalAnswer;
+        double microAvgRec = tempRec/totalAnswer;
+        double microAvgF1 = (2 * (microAvgPre * microAvgRec)) / (microAvgPre + microAvgRec);
+        
+        mea.setMicroAverageF1(microAvgF1);
+        mea.setMicroAverageRec(microAvgRec);
+        mea.setMicroAveragePre(microAvgPre);
         mea.setPrecision(listPre);
         mea.setRecall(listRec);
         mea.setF1_score(listF1);
@@ -181,7 +202,7 @@ public class Test {
     public static List<Double> avg(List<Double> l1, List<Double> l2, List<Double> l3, List<Double> l4, List<Double> l5) {
         List<Double> list = new ArrayList<>();
 
-        for (int i = 0; i < 4; i++) {
+        for (int i = 0; i < 3; i++) {
             list.add((l1.get(i) + l2.get(i) + l3.get(i) + l4.get(i) + l5.get(i)) / 5);
         }
         return list;
@@ -222,21 +243,25 @@ public class Test {
     public static void main(String[] args) {
         
         int noPerFold = numSentences / numFolds;
-        System.out.println(noPerFold);
         
+        System.out.println(" ========= fold 1 =========");
         Measures m1 = compute(computeType1(1, noPerFold));
+        System.out.println(" ========= fold 2 =========");
         Measures m3 = compute(computeType3(noPerFold + 1, noPerFold * 2));
+        System.out.println(" ========= fold 3 =========");
         Measures m4 = compute(computeType3(noPerFold * 2 + 1 , noPerFold * 3));
+        System.out.println(" ========= fold 4 =========");
         Measures m5 = compute(computeType3(noPerFold * 3 + 1, noPerFold * 4));
+        System.out.println(" ========= fold 5 =========");
         Measures m2 = compute(computeType2(noPerFold * 4 + 1, noPerFold * 5));
-        
-//        Measures m1 = compute(computeType1(1, 3200));
-//        Measures m2 = compute(computeType2(12801, 16000));
-//        Measures m3 = compute(computeType3(3201, 6400));
-//        Measures m4 = compute(computeType3(6401, 9600));
-//        Measures m5 = compute(computeType3(9601, 12800));
-
+       
         Measures avg = new Measures();
+        
+        avg.setAccuracy(((m1.getAccuracy()) + (m2.getAccuracy()) + (m3.getAccuracy()) + (m4.getAccuracy()) + (m5.getAccuracy())) / 5);
+        
+        avg.setMicroAverageF1((m1.getMicroAverageF1() + m2.getMicroAverageF1() + m3.getMicroAverageF1() + m4.getMicroAverageF1() + m5.getMicroAverageF1()) / 5);
+        avg.setMicroAverageRec((m1.getMicroAverageRec() + m2.getMicroAverageRec() + m3.getMicroAverageRec() + m4.getMicroAverageRec() + m5.getMicroAverageRec()) / 5);
+        avg.setMicroAveragePre((m1.getMicroAveragePre() + m2.getMicroAveragePre() + m3.getMicroAveragePre() + m4.getMicroAveragePre() + m5.getMicroAveragePre()) / 5);        
         avg.setAccuracy(((m1.getAccuracy()) + (m2.getAccuracy()) + (m3.getAccuracy()) + (m4.getAccuracy()) + (m5.getAccuracy())) / 5);
 
         avg.setPrecision(avg(m1.getPrecision(), m2.getPrecision(), m3.getPrecision(), m4.getPrecision(), m5.getPrecision()));
@@ -246,15 +271,5 @@ public class Test {
         Measures mavg = computeAverage(m1,m2, m3, m4, m5);
         m1.display();
 
-//        System.out.println("---------------- Fold1 ----------------");
-//        m1.display();
-//        System.out.println("---------------- Fold2 ----------------");
-//        m2.display();
-//        System.out.println(" ---------------- Fold3 ----------------");
-//        m3.display();
-//        System.out.println(" ---------------- Fold4 ----------------");
-//        m4.display();
-//        System.out.println(" ---------------- Fold5 ----------------");
-//        m5.display();
     }
 }

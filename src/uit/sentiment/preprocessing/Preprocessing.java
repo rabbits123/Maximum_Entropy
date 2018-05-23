@@ -112,7 +112,9 @@ public class Preprocessing {
 
     public static String preprocessSentence(String str) {
         if (checkAccent(str)) {
-            str = preProcess(str, "\\d|\\s+");
+            str = preProcess(str, "\\s+");
+            
+            str = str.replaceAll("\\d+", "#num");
             //tokenize
             str = tokenizer.tokenize(str)[0];
             // remove stopword

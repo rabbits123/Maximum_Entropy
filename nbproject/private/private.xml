@@ -5,8 +5,9 @@
         <group>
             <file>file:/E:/Maxent/src/uit/sentiment/preprocessing/Preprocessing.java</file>
             <file>file:/E:/Maxent/src/uit/sentiment/maxent/MaximumEntropy.java</file>
-            <file>file:/E:/Maxent/src/maxent/Maxent.java</file>
-            <file>file:/E:/Maxent/src/uit/sentiment/maxent/test.java</file>
+            <file>file:/E:/Maxent/src/uit/sentiment/maxent/MakeTraingData.java</file>
+            <file>file:/E:/Maxent/src/uit/sentiment/maxent/FeatureDictionary.java</file>
+            <file>file:/E:/Maxent/src/uit/sentiment/maxent/PredictSentence.java</file>
         </group>
     </open-files>
 </project-private>
